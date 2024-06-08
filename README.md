@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
 # Sliding Window
 |  |
 | ------- |
@@ -38,3 +39,8 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
+# Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
