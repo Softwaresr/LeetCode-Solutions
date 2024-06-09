@@ -44,3 +44,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
+# Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
