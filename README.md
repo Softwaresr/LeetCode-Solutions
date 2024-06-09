@@ -48,3 +48,4 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
