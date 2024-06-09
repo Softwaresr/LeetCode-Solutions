@@ -35,6 +35,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 # Math
 |  |
 | ------- |
@@ -49,3 +50,11 @@
 | ------- |
 | [0176-second-highest-salary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0185-department-top-three-salaries) |
+# Array
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+# Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
