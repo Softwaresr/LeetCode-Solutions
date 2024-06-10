@@ -68,6 +68,7 @@
 # Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0630-course-schedule-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 # Binary Search
 |  |
@@ -77,3 +78,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+# Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+# Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
