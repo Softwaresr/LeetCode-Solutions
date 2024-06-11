@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # String
 |  |
@@ -12,6 +13,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -21,6 +23,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 # Rolling Hash
 |  |
 | ------- |
