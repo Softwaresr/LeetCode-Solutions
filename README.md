@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # String
 |  |
 | ------- |
@@ -91,14 +92,17 @@
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # Depth-First Search
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # Breadth-First Search
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # Union Find
 |  |
 | ------- |
@@ -111,3 +115,7 @@
 |  |
 | ------- |
 | [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+# Counting
+|  |
+| ------- |
+| [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
