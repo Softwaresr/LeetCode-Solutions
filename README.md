@@ -87,3 +87,27 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+# Tree
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+# Depth-First Search
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+# Breadth-First Search
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+# Union Find
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+# Graph
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
+# Binary Tree
+|  |
+| ------- |
+| [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
