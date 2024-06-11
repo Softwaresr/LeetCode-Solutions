@@ -37,6 +37,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 # Math
 |  |
 | ------- |
@@ -91,11 +92,13 @@
 # Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # Breadth-First Search
@@ -114,6 +117,7 @@
 # Binary Tree
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1275-validate-binary-tree-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1275-validate-binary-tree-nodes) |
 # Counting
 |  |
