@@ -36,10 +36,12 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -137,6 +140,7 @@
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 # Matrix
 |  |
@@ -146,6 +150,7 @@
 # Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 # Prefix Sum
 |  |
