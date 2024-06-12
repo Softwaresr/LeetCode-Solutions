@@ -88,6 +88,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 # Divide and Conquer
 |  |
@@ -161,4 +162,9 @@
 # Ordered Set
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+# Design
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
