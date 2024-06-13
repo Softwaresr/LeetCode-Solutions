@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0115-distinct-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
@@ -43,6 +44,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 # Math
