@@ -4,6 +4,7 @@
 # Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -64,6 +65,7 @@
 # Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
