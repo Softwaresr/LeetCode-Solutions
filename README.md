@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1765-merge-in-between-linked-lists) |
