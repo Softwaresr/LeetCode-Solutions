@@ -21,6 +21,7 @@
 # Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
 # Sliding Window
@@ -58,6 +59,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
 # Recursion
 |  |
