@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0115-distinct-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
 # Database
