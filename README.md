@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
