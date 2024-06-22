@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0187-repeated-dna-sequences) |
 | [1423-maximum-number-of-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1423-maximum-number-of-occurrences-of-a-substring) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -88,6 +89,7 @@
 | [0088-merge-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
@@ -101,6 +103,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 # Heap (Priority Queue)
@@ -121,6 +124,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0169-majority-element) |
 # Linked List
 |  |
 | ------- |
@@ -170,6 +174,7 @@
 # Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [1643-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1643-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 # Stack
 |  |
