@@ -48,6 +48,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0189-rotate-array) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
 # Recursion
 |  |
@@ -90,6 +92,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
