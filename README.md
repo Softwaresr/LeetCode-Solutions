@@ -55,6 +55,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -101,6 +103,7 @@
 # Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
