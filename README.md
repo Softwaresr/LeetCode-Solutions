@@ -99,6 +99,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
@@ -115,6 +116,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0630-course-schedule-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0630-course-schedule-iii) |
 # Heap (Priority Queue)
@@ -215,3 +217,7 @@
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0352-data-stream-as-disjoint-intervals) |
+# Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0274-h-index) |
