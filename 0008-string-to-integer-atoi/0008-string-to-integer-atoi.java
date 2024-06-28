@@ -1,25 +1,59 @@
 class Solution {
   public int myAtoi(String s) {
-    s = s.strip();
-    if (s.isEmpty())
-      return 0;
-
-    final int sign = s.charAt(0) == '-' ? -1 : 1;
-    if (s.charAt(0) == '+' || s.charAt(0) == '-')
-      s = s.substring(1);
-
-    long num = 0;
-
-    for (final char c : s.toCharArray()) {
-      if (!Character.isDigit(c))
-        break;
-      num = num * 10 + (c - '0');
-      if (sign * num <= Integer.MIN_VALUE)
-        return Integer.MIN_VALUE;
-      if (sign * num >= Integer.MAX_VALUE)
-        return Integer.MAX_VALUE;
+    s = s.trim();
+    if (s.length() == 0){
+        return 0;
+        
     }
+    boolean neg = false;
+      long ans = 0;
+      for(int i = 0; i<s.length();i++){
+          char ch = s.charAt(i);
+          
+          if(i==0){
+              if(ch == '-'){
+                  neg = true;
+                  continue;
+                  
+              }
+              else if(ch == '+'){
+                  neg = false;
+                  continue;
+              }
+              
+          }
+          
+          if(ch >='0' && ch <= '9'){
+              int dig = ch - '0';
+              ans = ans * 10 + dig;
+              if(neg){
+                  long check = -ans;
+                  if(check<Integer.MIN_VALUE){
+                      return Integer.MIN_VALUE;
+                  }
+              }
+              
+              else{
+                  if(ans>Integer.MAX_VALUE){
+                      return Integer.MAX_VALUE;
+                  }
+              }
+          }
+          else{
+              break;
+              
+          }
+      }
+      if(neg){
+          ans = -ans;
+      }
+      
+      return (int)ans;
+ 
+      
+    
+      
 
-    return sign * (int) num;
+    
   }
 }
