@@ -250,6 +250,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
