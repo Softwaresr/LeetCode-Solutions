@@ -249,6 +249,7 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -256,6 +257,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -269,4 +271,5 @@
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
