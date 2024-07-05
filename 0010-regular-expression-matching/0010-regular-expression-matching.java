@@ -1,33 +1,30 @@
 class Solution {
-    private Boolean[][] f;
-    private String s;
-    private String p;
-    private int m;
-    private int n;
+  public boolean isMatch(String s, String p) {
+    final int m = s.length();
+    final int n = p.length();
+    // dp[i][j] := true if s[0..i) matches p[0..j)
+    boolean[][] dp = new boolean[m + 1][n + 1];
+    dp[0][0] = true;
 
-    public boolean isMatch(String s, String p) {
-        m = s.length();
-        n = p.length();
-        f = new Boolean[m + 1][n + 1];
-        this.s = s;
-        this.p = p;
-        return dfs(0, 0);
-    }
+    for (int j = 0; j < p.length(); ++j)
+      if (p.charAt(j) == '*' && dp[0][j - 1])
+        dp[0][j + 1] = true;
 
-    private boolean dfs(int i, int j) {
-        if (j >= n) {
-            return i == m;
+    for (int i = 0; i < m; ++i)
+      for (int j = 0; j < n; ++j)
+        if (p.charAt(j) == '*') {
+          // The minimum index of '*' is 1.
+          final boolean noRepeat = dp[i + 1][j - 1];
+          final boolean doRepeat = isMatch(s, i, p, j - 1) && dp[i][j + 1];
+          dp[i + 1][j + 1] = noRepeat || doRepeat;
+        } else if (isMatch(s, i, p, j)) {
+          dp[i + 1][j + 1] = dp[i][j];
         }
-        if (f[i][j] != null) {
-            return f[i][j];
-        }
-        boolean res = false;
-        if (j + 1 < n && p.charAt(j + 1) == '*') {
-            res = dfs(i, j + 2)
-                || (i < m && (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.') && dfs(i + 1, j));
-        } else {
-            res = i < m && (s.charAt(i) == p.charAt(j) || p.charAt(j) == '.') && dfs(i + 1, j + 1);
-        }
-        return f[i][j] = res;
-    }
+
+    return dp[m][n];
+  }
+
+  private boolean isMatch(final String s, int i, final String p, int j) {
+    return j >= 0 && p.charAt(j) == '.' || s.charAt(i) == p.charAt(j);
+  }
 }
