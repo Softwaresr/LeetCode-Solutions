@@ -231,6 +231,7 @@
 | [0011-container-with-most-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0040-combination-sum-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
@@ -263,6 +264,7 @@
 | [0007-reverse-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
 |  |
@@ -300,4 +302,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
