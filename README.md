@@ -256,6 +256,7 @@
 | [0013-roman-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -284,6 +285,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -306,4 +308,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
