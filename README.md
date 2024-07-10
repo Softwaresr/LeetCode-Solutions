@@ -257,6 +257,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 ## Math
@@ -265,6 +266,7 @@
 | [0007-reverse-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Greedy
@@ -312,4 +314,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
