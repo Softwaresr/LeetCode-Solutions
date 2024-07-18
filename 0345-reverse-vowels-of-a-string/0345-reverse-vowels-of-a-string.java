@@ -32,29 +32,30 @@ class Solution {
         
     }
     boolean isVowel(char ch) {
-        if(ch == 'a' || ch == 'A'){
-            return true;
+        // if(ch == 'a' || ch == 'A'){
+        //     return true;
 
-        }
-        if(ch == 'e' || ch == 'E'){
-            return true;
+        // }
+        // if(ch == 'e' || ch == 'E'){
+        //     return true;
             
-        }
-        if(ch == 'i' || ch == 'I'){
-            return true;
+        // }
+        // if(ch == 'i' || ch == 'I'){
+        //     return true;
             
-        }
-        if(ch == 'o' || ch == 'O'){
-            return true;
+        // }
+        // if(ch == 'o' || ch == 'O'){
+        //     return true;
             
-        }
-        if(ch == 'u' || ch == 'U'){
-            return true;
+        // }
+        // if(ch == 'u' || ch == 'U'){
+        //     return true;
 
-        }
-        else{
-            return false;
-        }
+        // }
+        // else{
+        //     return false;
+        // }
+        return "AEIOUaeiou".indexOf(ch) != -1;
 
         
 
