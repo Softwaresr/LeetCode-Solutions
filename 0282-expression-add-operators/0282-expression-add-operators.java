@@ -1,35 +1,52 @@
 class Solution {
-  public List<String> addOperators(String num, int target) {
-    List<String> ans = new ArrayList<>();
-    dfs(num, target, 0, 0, 0, new StringBuilder(), ans);
-    return ans;
-  }
+    List<String> res;
+    char[] nums;
+    long target;
+    int n;
+    char[] chs;
 
-  private void dfs(String num, int target, int s, long prev, long eval, StringBuilder sb,
-                   List<String> ans) {
-    if (s == num.length()) {
-      if (eval == target)
-        ans.add(sb.toString());
-      return;
+    public List<String> addOperators(String num, int target) {
+        res = new ArrayList<>();
+        nums = num.toCharArray();
+        this.target = target;
+        n = num.length();
+        chs = new char[n + n];
+        int chsPtr = 0;
+        long value = 0;
+        for (int i = 0; i < n; i++) {
+            value = value * 10 + nums[i] - '0';
+            chs[chsPtr++] = nums[i];
+
+            helper(i + 1, chsPtr, 0, value);
+            if (value == 0)
+                break;
+        }
+        return res;
     }
 
-    for (int i = s; i < num.length(); ++i) {
-      if (i > s && num.charAt(s) == '0')
-        return;
-      final long curr = Long.parseLong(num.substring(s, i + 1));
-      final int length = sb.length();
-      if (s == 0) { // the first number
-        dfs(num, target, i + 1, curr, curr, sb.append(curr), ans);
-        sb.setLength(length);
-      } else {
-        dfs(num, target, i + 1, curr, eval + curr, sb.append("+").append(curr), ans);
-        sb.setLength(length);
-        dfs(num, target, i + 1, -curr, eval - curr, sb.append("-").append(curr), ans);
-        sb.setLength(length);
-        dfs(num, target, i + 1, prev * curr, eval - prev + prev * curr, sb.append("*").append(curr),
-            ans);
-        sb.setLength(length);
-      }
+    private void helper(int numPtr, int chsPtr, long cur, long prev) {
+        if (numPtr == n) {
+            if (cur + prev == target) {
+                res.add(new String(chs, 0, chsPtr));
+            }
+            return;
+        }
+        if (Math.abs(cur - target) > (Math.abs(prev) + 1) * Math.pow(10, n - numPtr)) {
+            return;
+        }
+        long value = 0;
+        int op = chsPtr++;
+        for (int i = numPtr; i < n; i++) {
+            value = value * 10 + nums[i] - '0';
+            chs[chsPtr++] = nums[i];
+            chs[op] = '+';
+            helper(i + 1, chsPtr, cur + prev, value);
+            chs[op] = '-';
+            helper(i + 1, chsPtr, cur + prev, -value);
+            chs[op] = '*';
+            helper(i + 1, chsPtr, cur, prev * value);
+            if (value == 0)
+                break;
+        }
     }
-  }
 }
