@@ -1,27 +1,18 @@
 class Solution {
-  public int maxProfit(int k, int[] prices) {
-    if (k >= prices.length / 2) {
-      int sell = 0;
-      int hold = Integer.MIN_VALUE;
+    public int maxProfit(int k, int[] prices) {
+        int n = prices.length;
 
-      for (final int price : prices) {
-        sell = Math.max(sell, hold + price);
-        hold = Math.max(hold, sell - price);
-      }
+        int[] previousDiff = new int[k+1];
+        int[] profit = new int[k+1];
+        Arrays.fill(previousDiff , Integer.MIN_VALUE);
 
-      return sell;
+        for(int j = 0;j<n;j++){
+            for(int i=1;i<=k;i++){
+                previousDiff[i] = Math.max(previousDiff[i], profit[i-1] - prices[j]);
+                profit[i] = Math.max(profit[i], previousDiff[i] + prices[j]);
+            }
+        }
+
+        return profit[k];
     }
-
-    int[] sell = new int[k + 1];
-    int[] hold = new int[k + 1];
-    Arrays.fill(hold, Integer.MIN_VALUE);
-
-    for (final int price : prices)
-      for (int i = k; i > 0; --i) {
-        sell[i] = Math.max(sell[i], hold[i] + price);
-        hold[i] = Math.max(hold[i], sell[i - 1] - price);
-      }
-
-    return sell[k];
-  }
 }
