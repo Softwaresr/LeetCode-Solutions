@@ -1,25 +1,27 @@
 class Solution {
-  public int calculate(String s) {
-    int ans = 0;
-    int num = 0;
-    int sign = 1;
-    // stack.peek() := the current environment's sign
-    Deque<Integer> stack = new ArrayDeque<>();
-    stack.push(sign);
-
-    for (final char c : s.toCharArray())
-      if (Character.isDigit(c))
-        num = num * 10 + (c - '0');
-      else if (c == '(')
-        stack.push(sign);
-      else if (c == ')')
-        stack.pop();
-      else if (c == '+' || c == '-') {
-        ans += sign * num;
-        sign = (c == '+' ? 1 : -1) * stack.peek();
-        num = 0;
-      }
-
-    return ans + sign * num;
-  }
+    int idx;
+    public int calculate(String s) {
+            idx=0;
+           return calc(s);
+    }
+    private int calc(String s) {
+        int num = 0, res = 0;
+        int sign = 1;
+       while (idx< s.length()) {
+            char c = s.charAt(idx++);
+           if (c >= '0' && c <= '9') {
+                num = num * 10 + c - '0';
+            } else if (c == '(') {
+               num = calc(s);
+            } else if (c == ')') {
+                return res += num * sign;
+           } else if (c == '+' || c == '-') {
+                res += num * sign;
+                num = 0;
+                sign = (c == '-') ? -1 : 1;
+            }
+        }
+        res += num * sign;
+        return res;
+   }
 }
