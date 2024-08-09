@@ -1,34 +1,118 @@
 class Solution {
-  public void solveSudoku(char[][] board) {
-    dfs(board, 0);
-  }
+    private final static int SIZE = 9;
+    private final static int BLOCK_SIZE = 3;
+    private final static char EMPTY_CELL = '.';
+    private final static int allBits = 0x1ff;
+    private final static int[] bitFlags = new int[]{
+            0x1,
+            0x1 << 1,
+            0x1 << 2,
+            0x1 << 3,
+            0x1 << 4,
+            0x1 << 5,
+            0x1 << 6,
+            0x1 << 7,
+            0x1 << 8,
+    };
 
-  private boolean dfs(char[][] board, int s) {
-    if (s == 81)
-      return true;
+    private char[][] board;
+    private int[] rows;
+    private int[] cols;
+    private int[] blocks;
+    private int totalCount = 0;
 
-    final int i = s / 9;
-    final int j = s % 9;
+    public void solveSudoku(char[][] board) {
+        if (board == null || board.length != SIZE && board[0].length != SIZE) throw new IllegalArgumentException();
+        this.board = board;
+        initialize();
+        initialUpdate();
+        bruteForce();
+    }
 
-    if (board[i][j] != '.')
-      return dfs(board, s + 1);
+    private void initialize() {
+        rows = new int[SIZE];
+        cols = new int[SIZE];
+        blocks = new int[SIZE];
+        totalCount = 0;
+    }
 
-    for (char c = '1'; c <= '9'; ++c)
-      if (isValid(board, i, j, c)) {
-        board[i][j] = c;
-        if (dfs(board, s + 1))
-          return true;
-        board[i][j] = '.';
-      }
+    private boolean bruteForce() {
+        if (totalCount >= SIZE * SIZE) return true;
+        int row = -1;
+        int col = -1;
 
-    return false;
-  }
+        int min = SIZE + 1;
+        for (int r = 0; r < SIZE && min > 1; ++r) {
+            for (int c = 0; c < SIZE; ++c) {
+                if (board[r][c] != EMPTY_CELL) continue;
+                int candidateCounts = getCandidateCount(r, c);
+                if (candidateCounts < min) {
+                    min = candidateCounts;
+                    row = r;
+                    col = c;
+                }
+                if (min == 1) break;
+            }
+        }
+        if (min < 1) return false;
+        int candidates = getCandidates(row, col);
 
-  private boolean isValid(char[][] board, int row, int col, char c) {
-    for (int i = 0; i < 9; ++i)
-      if (board[i][col] == c || board[row][i] == c ||
-          board[3 * (row / 3) + i / 3][3 * (col / 3) + i % 3] == c)
+        for (int i = 0; i < SIZE && candidates != 0; ++i, candidates >>= 1) {
+            if (candidates % 2 == 0) continue;
+            mark(i, row, col);
+            board[row][col] = toChar(i);
+            if (bruteForce()) return true;
+            board[row][col] = EMPTY_CELL;
+            unmark(i, row, col);
+        }
         return false;
-    return true;
-  }
+    }
+
+    private int getCandidates(int row, int col) {
+        int blkId = row / BLOCK_SIZE * BLOCK_SIZE + col / BLOCK_SIZE;
+        return ~(rows[row] | cols[col] | blocks[blkId]) & allBits;
+    }
+
+    private int getCandidateCount(int row, int col) {
+        int candidates = getCandidates(row, col);
+        int count = 0;
+        for (int i = 0; candidates != 0; ++i, candidates = candidates & (candidates - 1)) ++count;
+        return count;
+    }
+
+    private void mark(int value, int row, int col) {
+        int blkId = row / BLOCK_SIZE * BLOCK_SIZE + col / BLOCK_SIZE;
+        int flag = bitFlags[value];
+        rows[row] |= flag;
+        cols[col] |= flag;
+        blocks[blkId] |= flag;
+        ++totalCount;
+    }
+
+    private void unmark(int value, int row, int col) {
+        int blkId = row / BLOCK_SIZE * BLOCK_SIZE + col / BLOCK_SIZE;
+        int mask = ~bitFlags[value];
+        rows[row] &= mask;
+        cols[col] &= mask;
+        blocks[blkId] &= mask;
+        --totalCount;
+    }
+
+    private void initialUpdate() {
+        for (int r = 0; r < SIZE; ++r) {
+            for (int c = 0; c < SIZE; ++c) {
+                if (board[r][c] == EMPTY_CELL) continue;
+                int value = fromChar(board[r][c]);
+                mark(value, r, c);
+            }
+        }
+    }
+
+    private static int fromChar(char c) {
+        return c - '1';
+    }
+
+    private static char toChar(int i) {
+        return (char) (i + '1');
+    }
 }
