@@ -238,6 +238,7 @@
 | [0040-combination-sum-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -279,6 +280,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
@@ -317,6 +320,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
 ## Dynamic Programming
 |  |
