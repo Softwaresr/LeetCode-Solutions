@@ -244,6 +244,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Binary Search
 |  |
@@ -371,6 +372,7 @@
 | [0037-sudoku-solver](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
+| [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Stack
 |  |
 | ------- |
@@ -386,6 +388,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -402,6 +405,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 ## Rolling Hash
 |  |
 | ------- |
