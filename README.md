@@ -335,6 +335,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0552-student-attendance-record-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0552-student-attendance-record-ii) |
 ## Recursion
 |  |
 | ------- |
