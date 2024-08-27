@@ -1,31 +1,28 @@
-class Solution {
-  public String longestPalindrome(String s) {
-    if (s.isEmpty())
-      return "";
-
-    // (start, end) indices of the longest palindrome in s
-    int[] indices = {0, 0};
-
-    for (int i = 0; i < s.length(); ++i) {
-      int[] indices1 = extend(s, i, i);
-      if (indices1[1] - indices1[0] > indices[1] - indices[0])
-        indices = indices1;
-      if (i + 1 < s.length() && s.charAt(i) == s.charAt(i + 1)) {
-        int[] indices2 = extend(s, i, i + 1);
-        if (indices2[1] - indices2[0] > indices[1] - indices[0])
-          indices = indices2;
-      }
+public class Solution {
+    public String longestPalindrome(String s) {
+        if (s == null || s.length() < 1) return "";
+        
+        int start = 0, end = 0;
+        
+        for (int i = 0; i < s.length(); i++) {
+            int len1 = expandAroundCenter(s, i, i);   // Odd length palindrome
+            int len2 = expandAroundCenter(s, i, i + 1); // Even length palindrome
+            int len = Math.max(len1, len2);
+            
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
+            }
+        }
+        
+        return s.substring(start, end + 1);
     }
-
-    return s.substring(indices[0], indices[1] + 1);
-  }
-
-  // Returns the (start, end) indices of the longest palindrome extended from
-  // the substring s[i..j].
-  private int[] extend(final String s, int i, int j) {
-    for (; i >= 0 && j < s.length(); --i, ++j)
-      if (s.charAt(i) != s.charAt(j))
-        break;
-    return new int[] {i + 1, j - 1};
-  }
+    
+    private int expandAroundCenter(String s, int left, int right) {
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
+        }
+        return right - left - 1;
+    }
 }
