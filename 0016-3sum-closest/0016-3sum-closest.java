@@ -11,9 +11,9 @@ class Solution {
                     c=curr;
 
                 }else if(curr<target){
-                    ++left;
+                    left++;
                 }else if(curr>target){
-                    --right;
+                    right--;
                 }else{
                     return curr;
                 }
