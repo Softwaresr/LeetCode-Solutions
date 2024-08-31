@@ -248,6 +248,7 @@
 | [0068-text-justification](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0218-the-skyline-problem](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
@@ -308,6 +309,7 @@
 | [0087-scramble-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -355,6 +357,7 @@
 | [0041-first-missing-positive](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
@@ -370,6 +373,7 @@
 | [0087-scramble-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
@@ -396,6 +400,7 @@
 | [0046-permutations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
+| [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 ## String Matching
 |  |
@@ -510,4 +515,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
