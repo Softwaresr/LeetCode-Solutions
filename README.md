@@ -323,6 +323,7 @@
 | [0013-roman-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0224-basic-calculator](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -365,6 +366,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0087-scramble-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
@@ -504,4 +506,8 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
