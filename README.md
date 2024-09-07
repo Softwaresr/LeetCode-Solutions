@@ -342,6 +342,7 @@
 | [0282-expression-add-operators](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0483-smallest-good-base](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0483-smallest-good-base) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## Greedy
 |  |
 | ------- |
@@ -392,6 +393,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0552-student-attendance-record-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0552-student-attendance-record-ii) |
+| [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## Recursion
 |  |
 | ------- |
@@ -537,6 +539,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0062-unique-paths) |
+| [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## Trie
 |  |
 | ------- |
