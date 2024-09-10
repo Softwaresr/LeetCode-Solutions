@@ -1,103 +1,83 @@
 class Solution {
+     int crossProduct(int[] current, int[] nextPoint, int[] point){
+        int x1 = current[0] - nextPoint[0];
+        int x2 = current[0] - point[0];
+        int y1 = current[1] - nextPoint[1];
+        int y2 = current[1] - point[1];
+
+        return ((y2*x1) - (y1*x2));
+    }
+
+    int distance(int[] current, int[] nextPoint, int[] point){
+        int x1 = current[0] - nextPoint[0];
+        int x2 = current[0] - point[0];
+        int y1 = current[1] - nextPoint[1];
+        int y2 = current[1] - point[1];
+
+        return Integer.compare(y1*y1+x1*x1, y2*y2+x2*x2);
+    }
+
     public int[][] outerTrees(int[][] trees) {
+        //find the starting point 
+        int min = 0;
+        int xmin = trees[0][0];
 
-        // Sort by x asc and then by y desc
-        Arrays.sort(trees, (p1, p2) -> {
-            if (p1[0] == p2[0]) {
-                return p2[1] - p1[1];
-                // return p1[1] - p2[1];
+        for(int i = 1; i < trees.length; i++){
+            if(trees[i][0] < xmin || (xmin == trees[i][0] && trees[i][1] < trees[min][1])){
+                xmin = trees[i][0];
+                min = i;
             }
-            return p1[0] - p2[0];
-        });
+        }
 
-        Set<Point> res = new HashSet<>();
-        res.add(new Point(trees[0]));
+        int [] temp = trees[min];
+        trees[min] = trees[0];
+        trees[0] = temp;
 
-        int n = trees.length;
+        int[] current = trees[0];
+        int[] start = trees[0];
+        List<int[]> collinearPoints = new ArrayList<>();
+        Set<int[]> result = new HashSet<>();
+        result.add(start);
+
+        do{
+            int[] nextPoint = trees[0];
+            for(int i = 1; i < trees.length; i++){
+                int[] point = trees[i];
+                if(point == current) continue;
+
+                int cp = crossProduct(current, nextPoint, point);
+
+                if(cp > 0){
+                    nextPoint = point;
+                    collinearPoints.clear();
+                }else if(cp == 0){
+                    if(distance(current,nextPoint,point) < 0){
+                        collinearPoints.add(nextPoint);
+                        nextPoint = point;
+                    }else{
+                        collinearPoints.add(point);
+                    }
+                }
+            }
+
+            for(int[] points : collinearPoints){
+                result.add(points);
+            }
+
+            if(nextPoint == start){
+                break;
+            }
+
+            result.add(nextPoint);
+            current = nextPoint;
+        }while(true);
+
+        int[][] ans = new int[result.size()][2];
         int i = 0;
-        while (i != n - 1) {
-            // find the next best slope
-            double bestSlope = Integer.MIN_VALUE;
-            int[] nextPoint = trees[i + 1];
-            int jCandidate = i + 1;
-
-            for (int j = i + 1; j < n; j++) {
-                double slope = calculateSlope(trees[i], trees[j]);
-                if (slope > bestSlope) {
-                    bestSlope = slope;
-                    nextPoint = trees[j];
-                    jCandidate = j;
-                }
-            }
-
-            i = jCandidate;
-            res.add(new Point(nextPoint));
+        for(int[] points : result){
+            ans[i++] = points;
         }
 
-        // Reverse it
-        i = n - 1;
-        while (i != 0) {
-            // find the next best slope
-            double bestSlope = Integer.MIN_VALUE;
-             int[] nextPoint = trees[i - 1];
-            int jCandidate = i - 1;
-
-            for (int j = i - 1; j >= 0; j--) {
-                double slope = calculateSlope(trees[j], trees[i]);
-                if (slope > bestSlope) {
-                    bestSlope = slope;
-                    nextPoint = trees[j];
-                    jCandidate = j;
-                }
-            }
-
-            i = jCandidate;
-            res.add(new Point(nextPoint));
-        }
-
-        return res.stream().map(p -> new int[]{p.x, p.y}).toArray(int[][]::new);
-    }
-
-    private double calculateSlope(int[] p1, int[] p2) {
-        if (p1[0] == p2[0]) { // 0 division
-            return Integer.MIN_VALUE;
-        }
-        return (double) (p2[1] - p1[1]) / (double) (p2[0] - p1[0]);
-    }
-
-    private static class Point {
-        public int x;
-        public int y;
-
-        public Point(int x, int y) {
-            this.x = x;
-            this.y = y;
-        }
-
-        public Point(int[] p) {
-            this.x = p[0];
-            this.y = p[1];
-        }
-
-        @Override
-        public String toString() {
-            return "Point{" +
-                    "x=" + x +
-                    ", y=" + y +
-                    '}';
-        }
-
-        @Override
-        public boolean equals(Object o) {
-            if (this == o) return true;
-            if (o == null || getClass() != o.getClass()) return false;
-            Point point = (Point) o;
-            return x == point.x && y == point.y;
-        }
-
-        @Override
-        public int hashCode() {
-            return Objects.hash(x, y);
-        }
+        return ans;
     }
 }
