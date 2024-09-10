@@ -457,6 +457,7 @@
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 ## Simulation
@@ -525,6 +526,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0332-reconstruct-itinerary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 ## Graph
 |  |
@@ -559,4 +561,12 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
