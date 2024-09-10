@@ -258,6 +258,7 @@
 | [0218-the-skyline-problem](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -343,6 +344,7 @@
 | [0273-integer-to-english-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [0483-smallest-good-base](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0483-smallest-good-base) |
+| [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 ## Greedy
@@ -553,4 +555,8 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
 <!---LeetCode Topics End-->
