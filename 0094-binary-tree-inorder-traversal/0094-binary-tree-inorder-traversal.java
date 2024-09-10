@@ -21,7 +21,7 @@ class Solution {
 
         
     }
-    private void inorder(TreeNode node,List<Integer> res){
+    public void inorder(TreeNode node,List<Integer> res){
         if(node== null){
             return;
         }
