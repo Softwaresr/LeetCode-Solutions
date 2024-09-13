@@ -14,15 +14,15 @@ class Solution {
         }return res.size();
     }
 
-    private int binary(List<Integer> arr,int target){
+    private int binary(List<Integer> res,int target){
         int left=0;
-        int right=arr.size()-1;
+        int right=res.size()-1;
         while (left<=right){
             int mid=(left+right)/2;
-            if(arr.get(mid)==target){
+            if(res.get(mid)==target){
                 return mid;
 
-            }else if(arr.get(mid)>target){
+            }else if(res.get(mid)>target){
                 right=mid-1;
             }
             else {
