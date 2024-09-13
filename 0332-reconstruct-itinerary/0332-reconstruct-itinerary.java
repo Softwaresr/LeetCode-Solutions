@@ -1,21 +1,39 @@
 class Solution {
-  public List<String> findItinerary(List<List<String>> tickets) {
-    LinkedList<String> ans = new LinkedList<>();
-    Map<String, Queue<String>> graph = new HashMap<>();
+    public List<String> findItinerary(List<List<String>> tickets) {
+        Map<String, List<String>> flightMap = new HashMap<>();
+        List<String> result = new LinkedList<>();
 
-    for (final List<String> ticket : tickets) {
-      graph.putIfAbsent(ticket.get(0), new PriorityQueue<>());
-      graph.get(ticket.get(0)).offer(ticket.get(1));
+        // Populate the flight map with each departure and arrival
+        for (List<String> ticket : tickets) {
+            String departure = ticket.get(0);
+            String arrival = ticket.get(1);
+            flightMap.putIfAbsent(departure, new ArrayList<>());
+            flightMap.get(departure).add(arrival);
+        }
+
+        // Sort each list of destinations in reverse lexicographical order
+        for (Map.Entry<String, List<String>> entry : flightMap.entrySet()) {
+            Collections.sort(entry.getValue(), Collections.reverseOrder());
+        }
+
+        // Perform DFS traversal
+        dfsTraversal("JFK", flightMap, result);
+
+        return result;
     }
 
-    dfs(graph, "JFK", ans);
-    return ans;
-  }
+    private void dfsTraversal(String current, Map<String, List<String>> flightMap, List<String> result) {
+        List<String> destinations = flightMap.get(current);
 
-  private void dfs(Map<String, Queue<String>> graph, final String u, LinkedList<String> ans) {
-    final Queue<String> arrivals = graph.get(u);
-    while (arrivals != null && !arrivals.isEmpty())
-      dfs(graph, arrivals.poll(), ans);
-    ans.addFirst(u);
-  }
+        // Traverse all destinations in the order of their lexicographical
+        // sorting
+        while (destinations != null && !destinations.isEmpty()) {
+            String nextDestination = destinations.remove(destinations.size() - 1);
+            dfsTraversal(nextDestination, flightMap, result);
+        }
+
+        // Append the current airport to the result after all destinations are
+        // visited
+        result.add(0, current);
+    }
 }
