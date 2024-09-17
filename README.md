@@ -596,4 +596,8 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
