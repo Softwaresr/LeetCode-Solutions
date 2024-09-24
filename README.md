@@ -262,6 +262,7 @@
 | [0283-move-zeroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0391-perfect-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0518-coin-change-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
@@ -558,6 +559,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0391-perfect-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 ## Ordered Set
 |  |
 | ------- |
