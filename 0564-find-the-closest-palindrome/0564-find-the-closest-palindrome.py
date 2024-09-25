@@ -1,39 +1,40 @@
 class Solution:
-    def nearestPalindromic(self, n: str) -> str:
-        length = len(n)
-        candidates = set()
+    def nearestPalindromic(self, numberStr: str) -> str:
+        number = int(numberStr)
+        if number <= 10:
+            return str(number - 1)
+        if number == 11:
+            return "9"
+
+        length = len(numberStr)
+        leftHalf = int(numberStr[:(length + 1) // 2])
         
-        # Edge cases: for n = "1", nearest palindrome is "0".
-        if n == "1":
-            return "0"
-        
-        # 1. Consider the smallest palindrome larger than n by adding 1 to the first half and mirroring it.
-        # 2. Consider the largest palindrome smaller than n by subtracting 1 from the first half and mirroring it.
-        # 3. Consider direct mirroring of the first half to create a potential palindrome.
-        
-        # Create the basic middle palindrome by mirroring the first half
-        prefix = n[:(length + 1) // 2]
-        prefix_number = int(prefix)
-        
-        # Generate the candidates
-        for i in [-1, 0, 1]:
-            # Adjust the prefix and create the palindrome
-            new_prefix = str(prefix_number + i)
-            if length % 2 == 0:
-                candidate = new_prefix + new_prefix[::-1]
-            else:
-                candidate = new_prefix + new_prefix[:-1][::-1]
-            candidates.add(candidate)
-        
-        # Adding edge cases: smallest palindrome larger than current number of digits, and largest palindrome smaller
-        # than the current number of digits
-        candidates.add(str(10**(length-1) - 1))
-        candidates.add(str(10**length + 1))
-        
-        # Remove the original number from the candidates set
-        candidates.discard(n)
-        
-        # Find the closest palindrome by comparing the absolute difference
-        closest_palindrome = min(candidates, key=lambda x: (abs(int(x) - int(n)), int(x)))
-        
-        return closest_palindrome
+        palindromeCandidates = [
+            self.generatePalindromeFromLeft(leftHalf - 1, length % 2 == 0),
+            self.generatePalindromeFromLeft(leftHalf, length % 2 == 0),
+            self.generatePalindromeFromLeft(leftHalf + 1, length % 2 == 0),
+            10**(length - 1) - 1,
+            10**length + 1
+        ]
+
+        nearestPalindrome = 0
+        minDifference = float('inf')
+
+        for candidate in palindromeCandidates:
+            if candidate == number:
+                continue
+            difference = abs(candidate - number)
+            if difference < minDifference or (difference == minDifference and candidate < nearestPalindrome):
+                minDifference = difference
+                nearestPalindrome = candidate
+
+        return str(nearestPalindrome)
+
+    def generatePalindromeFromLeft(self, leftHalf: int, isEvenLength: bool) -> int:
+        palindrome = leftHalf
+        if not isEvenLength:
+            leftHalf //= 10
+        while leftHalf > 0:
+            palindrome = palindrome * 10 + leftHalf % 10
+            leftHalf //= 10
+        return palindrome
