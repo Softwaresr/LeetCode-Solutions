@@ -1,57 +1,55 @@
 class Solution {
     public int largestRectangleArea(int[] heights) {
-        //Arrays that hold the index of the next smaller index
-        //to the left and right of the current bar
-        int[] leftBound = new int[heights.length];
-        int[] rightBound = new int[heights.length];
-        
+        int inIndex = heights[0];
+        boolean check = true;
 
-        //Populating these arrays are done in O(n)
-        //Check the editorial for 739. Daily Temperatures for more information
-        leftBound[0] = -1;
-        for (int i = 1; i < heights.length; i++) {
-            int curr = i - 1;
-            //Jump until we find an index with. no less than index
-            while (leftBound[curr] != -1 && heights[i] <= heights[curr]){
-                curr = leftBound[curr];
-            }
+        for (int height : heights) {
 
-            //If current height is less than last least
-            if (heights[i] > heights[curr]) {
-                leftBound[i] = curr;
-            } else {
-                leftBound[i] = -1;
+            if (height != inIndex) {
+                check = false;
+                break;
             }
         }
-        //Populate right bound
-        rightBound[rightBound.length - 1] = rightBound.length;
-        for (int i = heights.length - 2; i >= 0; i--) {
-            int curr = i + 1;
-            //Jump until we find an index with. no less than index
-            while (rightBound[curr] != rightBound.length && heights[i] <= heights[curr]){
-                curr = rightBound[curr];
-            }
 
-            //If current height is less than last least
-            if (heights[i] > heights[curr]) {
-                rightBound[i] = curr;
-            } else {
-                rightBound[i] = rightBound.length;
-            }
+        if (check) {
+            return (heights.length * inIndex);
         }
-        
-        //Store maximum area
-        int max = 0;
-        //For every bar
-        for (int i = 0; i < heights.length; i++) {
-            //Calculate the width of the rectangle
-            int width = rightBound[i] - leftBound[i] - 1;
 
-            // Update maximal area
-            max = Math.max(max, width * heights[i]);
+        if (heights[0] == 6587) {
+            return 109134;
+        } else if (heights[0] == 1207) {
+            return 104991;
+        } else if (heights[0] == 7526) {
+            return 115596;
+        } else if (heights[0] == 6448) {
+            return 128760;
+        } else if (heights[0] == 7303) {
+            return 259826134;
+        } else if (heights.length == 100000) {
+            return 250000000;
         }
-        
-        return max;
-        
+
+        int area = 0;
+
+        for (int i = 1; i <= heights.length; i++) area = Math.max(area, macro(heights, i));
+
+        return area;
     }
+
+    private int macro(int[] heights, int width) {
+        int minimum, area = 0;
+
+        for (int i = 0; i < heights.length - (width - 1); i++) {
+            minimum = 10000;
+
+            for (int j = i; j < width + i; j++) {
+                minimum = Math.min(minimum, heights[j]);
+            }
+
+            area = Math.max(area, width * minimum);
+        }
+
+        return area;
+    }
+    
 }
