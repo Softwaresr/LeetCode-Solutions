@@ -1,24 +1,27 @@
 class Solution {
     public String shortestPalindrome(String s) {
-        StringBuilder sb = new StringBuilder();
-        build(sb, s.length(), s.toCharArray());
-        return sb.toString();
+        int count = kmp(new StringBuilder(s).reverse().toString(), s);
+        return new StringBuilder(s.substring(count)).reverse().toString() + s;
     }
-    public void build(StringBuilder sb, int end, char[] chars) {
 
-        int index = 0;
-        for (int i = end - 1; i >= 0; i--) {
-            if (chars[index] == chars[i]) index++;
+    private int kmp(String txt, String patt) {
+        String newString = patt + '#' + txt;
+        int[] pi = new int[newString.length()];
+        int i = 1, k = 0;
+        while (i < newString.length()) {
+            if (newString.charAt(i) == newString.charAt(k)) {
+                k++;
+                pi[i] = k;
+                i++;
+            } else {
+                if (k > 0) {
+                    k = pi[k - 1];
+                } else {
+                    pi[i] = 0;
+                    i++;
+                }
+            }
         }
-        if (index == end) {
-            sb.append(chars, 0, end);
-            return;
-        }
-        for (int i = end - 1; i >= index; i--) {
-            sb.append(chars[i]);
-        }
-
-        build(sb, index, chars);
-        sb.append(chars, index, end - index);
+        return pi[newString.length() - 1];
     }
 }
