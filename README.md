@@ -266,6 +266,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0518-coin-change-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
+| [0643-maximum-average-subarray-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -526,6 +527,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0643-maximum-average-subarray-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 ## Breadth-First Search
