@@ -276,6 +276,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2109-find-array-given-subset-sums](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2109-find-array-given-subset-sums) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 ## Binary Search
 |  |
 | ------- |
@@ -382,6 +383,7 @@
 | [0011-container-with-most-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -392,6 +394,7 @@
 | [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
+| [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 ## Hash Table
 |  |
 | ------- |
