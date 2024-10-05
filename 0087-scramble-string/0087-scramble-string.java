@@ -1,51 +1,76 @@
 class Solution {
+    // for storing already solved problems
+    Map<String, Boolean> mp = new HashMap<>();
+
     public boolean isScramble(String s1, String s2) {
         int n = s1.length();
-        Boolean[][] memo = new Boolean[n][n];
-        return _isScramble(s1, s2, 0, 0, memo);
-    }
 
-    private boolean _isScramble(String src, String dst, int si, int di, Boolean[][] memo) {
-        int sn = src.length(), dn = dst.length();
-        if (sn == 1) {
-            return src.equals(dst);
-        } else if (!isAnagram(src, dst)) {
+        // if both strings are not equal in size
+        if (s2.length() != n)
             return false;
-        } else if (memo[si][di] != null) {
-            return memo[si][di];
-        }
-        // `i` is the splitter
-        for (int i = 1; i < sn; i++) {
-            String srcx = src.substring(0, i), srcy = src.substring(i);
-            // we check both swapped and unswapped here
-            //
-            // for example, given input: "abb", "bba", and i = 1
-            //
-            // _isScramble('a', 'b') && _isScramble('bb', 'ba')
-            // or
-            // _isScramble('a', 'a') && _isScramble('bb', 'bb')
-            //
-            if ((_isScramble(srcx, dst.substring(0, i), i, i, memo)
-                    && _isScramble(srcy, dst.substring(i), sn - i, i, memo))
-                || (_isScramble(srcx, dst.substring(dn - i), i, dn - i, memo)
-                    && _isScramble(srcy, dst.substring(0, dn - i), sn - i, dn - i, memo))) {
-                return memo[si][di] = true;
-            }
-        }
-        return memo[si][di] = false;
-    }
 
-    private boolean isAnagram(String src, String dst) {
-        int[] count = new int[26];
-        for (int i = 0; i < src.length(); i++) {
-            count[src.charAt(i) - 'a']++;
-            count[dst.charAt(i) - 'a']--;
-        }
-        for (int i : count) {
-            if (i != 0) {
-                return false;
+        // if both strings are equal
+        if (s1.equals(s2))
+            return true;
+
+        // if code is reached to this condition then following this are sure:
+        // 1. size of both string is equal
+        // 2. string are not equal
+        // so size is equal (where size==1) and they are not equal then obviously false
+        // example 'a' and 'b' size is equal ,string are not equal
+        if (n == 1)
+            return false;
+
+        String key = s1 + " " + s2;
+
+        // check if this problem has already been solved
+        if (mp.containsKey(key))
+            return mp.get(key);
+
+        // for every iteration it can two condition
+        // 1.we should proceed without swapping
+        // 2.we should swap before looking next
+        for (int i = 1; i < n; i++) {
+            // ex of without swap: gr|eat and rg|eat
+            boolean withoutswap = (
+                    // left part of first and second string
+                    isScramble(s1.substring(0, i), s2.substring(0, i))
+
+                            &&
+
+                            // right part of first and second string;
+                            isScramble(s1.substring(i), s2.substring(i))
+            );
+
+            // if without swap give us right answer then we do not need
+            // to call the recursion withswap
+            if (withoutswap) {
+                mp.put(key, true);
+                return true;
             }
+
+            // ex of withswap: gr|eat rge|at
+            // here we compare "gr" with "at" and "eat" with "rge"
+            boolean withswap = (
+                    // left part of first and right part of second
+                    isScramble(s1.substring(0, i), s2.substring(n - i))
+
+                            &&
+
+                            // right part of first and left part of second
+                            isScramble(s1.substring(i), s2.substring(0, n - i))
+            );
+
+            // if withswap give us right answer then we return true
+            // otherwise the for loop do it work
+            if (withswap) {
+                mp.put(key, true);
+                return true;
+            }
+            // we are not returning false in else case
+            // because we want to check further cases with the for loop
         }
-        return true;
+        mp.put(key, false);
+        return false;
     }
 }
