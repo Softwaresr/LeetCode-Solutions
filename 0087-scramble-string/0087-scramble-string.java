@@ -1,76 +1,52 @@
 class Solution {
-    // for storing already solved problems
-    Map<String, Boolean> mp = new HashMap<>();
-
     public boolean isScramble(String s1, String s2) {
-        int n = s1.length();
-
-        // if both strings are not equal in size
-        if (s2.length() != n)
-            return false;
-
-        // if both strings are equal
-        if (s1.equals(s2))
-            return true;
-
-        // if code is reached to this condition then following this are sure:
-        // 1. size of both string is equal
-        // 2. string are not equal
-        // so size is equal (where size==1) and they are not equal then obviously false
-        // example 'a' and 'b' size is equal ,string are not equal
-        if (n == 1)
-            return false;
-
-        String key = s1 + " " + s2;
-
-        // check if this problem has already been solved
-        if (mp.containsKey(key))
-            return mp.get(key);
-
-        // for every iteration it can two condition
-        // 1.we should proceed without swapping
-        // 2.we should swap before looking next
-        for (int i = 1; i < n; i++) {
-            // ex of without swap: gr|eat and rg|eat
-            boolean withoutswap = (
-                    // left part of first and second string
-                    isScramble(s1.substring(0, i), s2.substring(0, i))
-
-                            &&
-
-                            // right part of first and second string;
-                            isScramble(s1.substring(i), s2.substring(i))
-            );
-
-            // if without swap give us right answer then we do not need
-            // to call the recursion withswap
-            if (withoutswap) {
-                mp.put(key, true);
-                return true;
-            }
-
-            // ex of withswap: gr|eat rge|at
-            // here we compare "gr" with "at" and "eat" with "rge"
-            boolean withswap = (
-                    // left part of first and right part of second
-                    isScramble(s1.substring(0, i), s2.substring(n - i))
-
-                            &&
-
-                            // right part of first and left part of second
-                            isScramble(s1.substring(i), s2.substring(0, n - i))
-            );
-
-            // if withswap give us right answer then we return true
-            // otherwise the for loop do it work
-            if (withswap) {
-                mp.put(key, true);
-                return true;
-            }
-            // we are not returning false in else case
-            // because we want to check further cases with the for loop
+        char[] chrs1 = s1.toCharArray();
+        char[] chrs2 = s2.toCharArray();
+        int[] counts = new int['z' + 1];
+        int count = 0;
+        for (int i = 0; i < chrs1.length; i++) {
+            if (counts[chrs1[i]]++ == 0)
+                count++;
+            if (counts[chrs2[i]]-- == 1)
+                count--;
         }
-        mp.put(key, false);
+        if (count != 0)
+            return false;
+        return dfs(new HashSet<>(), chrs1, chrs2, 0, 0, chrs1.length - 1, chrs1.length - 1);
+    }
+
+    public boolean dfs(HashSet<Integer> HS, char[] chrs1, char[] chrs2, int l1, int l2, int r1, int r2) {
+        // System.out.println(l1 + " " + l2 + " " + r1 + " " + r2);
+        if (l1 == r1)
+            return true;
+        int k = (l1 << 15) + (l2 << 10) + (r1 << 5) + r2;
+        if (HS.contains(k))
+            return false;
+        int[] countsLeft = new int['z' + 1];
+        int[] countsRight = new int['z' + 1];
+        int countLeft = 0;
+        int countRight = 0;
+        int j = l2;
+        for (int i = l1; i < r1; i++) {
+            if (countsLeft[chrs1[i]]++ == 0)
+                countLeft++;
+            if (countsLeft[chrs2[j]]-- == 1)
+                countLeft--;
+            if (countLeft == 0 && dfs(HS, chrs1, chrs2, l1, l2, i, j) && dfs(HS, chrs1, chrs2, i + 1, j + 1, r1, r2))
+                return true;
+            j++;
+        }
+        j = r2;
+        for (int i = l1; i < r1; i++) {
+            if (countsRight[chrs1[i]]++ == 0)
+                countRight++;
+            if (countsRight[chrs2[j]]-- == 1)
+                countRight--;
+            if (countRight == 0 && dfs(HS, chrs1, chrs2, l1, j, i, r2) && dfs(HS, chrs1, chrs2, i + 1, l2, r1, j - 1))
+                return true;
+            j--;
+        }
+        HS.add(k);
         return false;
     }
 }
