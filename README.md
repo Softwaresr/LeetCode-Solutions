@@ -398,6 +398,7 @@
 | [0018-4sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 ## Hash Table
@@ -562,6 +563,7 @@
 | [0322-coin-change](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
+| [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -600,10 +602,12 @@
 | [0332-reconstruct-itinerary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0404-sum-of-left-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -654,4 +658,8 @@
 | [0584-find-customer-referee](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0595-big-countries) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Union Find
+|  |
+| ------- |
+| [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 <!---LeetCode Topics End-->
