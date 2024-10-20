@@ -280,6 +280,7 @@
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Binary Search
 |  |
@@ -538,6 +539,7 @@
 | [0043-multiply-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0068-text-justification](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [2470-removing-stars-from-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+| [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -547,6 +549,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
+| [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
 ## Merge Sort
 |  |
 | ------- |
