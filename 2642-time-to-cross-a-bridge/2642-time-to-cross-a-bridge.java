@@ -1,66 +1,114 @@
 class Solution {
-    class WorkerOnBank{
-        int details[], id;
-        WorkerOnBank(int details[], int id){
-            this.details = details;
-            this.id = id;
-        }
-    }
-    class WorkerInWarehouse{
-        int id, outTime;
-        WorkerInWarehouse(int id, int outTime){
-            this.id = id;
-            this.outTime = outTime;
-        }
-    }
-    class WorkerOnBankComparator implements Comparator<WorkerOnBank>{
-        public int compare(WorkerOnBank a, WorkerOnBank b){
-            if(a.details[0] + a.details[2] == b.details[0] + b.details[2])
-                return b.id - a.id;
-            return (b.details[0] + b.details[2]) - (a.details[0] + a.details[2]);
-        }
-    }
-    class WorkerInWarehouseComparator implements Comparator<WorkerInWarehouse>{
-        public int compare(WorkerInWarehouse a, WorkerInWarehouse b){
-           return a.outTime - b.outTime;
-        }
-    }
     public int findCrossingTime(int n, int k, int[][] time) {
-        int t = 0, i = 0, ans = 0;
-
-        PriorityQueue<WorkerOnBank> leftBank = new PriorityQueue<>(k, new WorkerOnBankComparator());
-        PriorityQueue<WorkerOnBank> rightBank = new PriorityQueue<>(k, new WorkerOnBankComparator());
-
-        PriorityQueue<WorkerInWarehouse> oldWarehouse = new PriorityQueue<>(k, new WorkerInWarehouseComparator());
-        PriorityQueue<WorkerInWarehouse> newWarehouse = new PriorityQueue<>(k, new WorkerInWarehouseComparator());
-
-        for(int tt[] : time) leftBank.add(new WorkerOnBank(tt,i++));
-        
-        while(n > 0 || rightBank.size() > 0 || oldWarehouse.size() > 0 || newWarehouse.size() > 0){
-            if(rightBank.size() == 0){
-                if(n > 0 && leftBank.size() > 0){
-                    t += leftBank.peek().details[0];
-                    oldWarehouse.add(new WorkerInWarehouse(leftBank.peek().id, t + leftBank.poll().details[1]));
-                    n -= 1;
-                } else {
-                    int minTime = Integer.MAX_VALUE;
-                    if(oldWarehouse.size() > 0) minTime = Math.min(minTime, oldWarehouse.peek().outTime);
-                    if(newWarehouse.size() > 0) minTime = Math.min(minTime, newWarehouse.peek().outTime);
-
-                    t = minTime;
-                }
-            } else {
-                t += rightBank.peek().details[2]; ans = t;
-                newWarehouse.add(new WorkerInWarehouse(rightBank.peek().id, t + rightBank.poll().details[3]));
-            }
-
-            while(oldWarehouse.size() > 0 && oldWarehouse.peek().outTime <= t)
-                rightBank.add(new WorkerOnBank(time[oldWarehouse.peek().id], oldWarehouse.poll().id));
-            
-            while(newWarehouse.size() > 0 && newWarehouse.peek().outTime <= t)
-                leftBank.add(new WorkerOnBank(time[newWarehouse.peek().id], newWarehouse.poll().id));
+        Worker[] worker = new Worker[k];
+        for(int i=0;i<k;i++) {
+            worker[i] = new Worker(i, time[i][0], time[i][1], time[i][2], time[i][3]);
         }
-
-        return ans;
+        //Four priority queues based on current position of the workers
+        
+        //Waiting at left side
+        PriorityQueue<Worker> leftToRight = new PriorityQueue<Worker>(k);
+        
+        //Picking up old boxes
+        PriorityQueue<Worker> pickOld = new PriorityQueue<Worker>(k, (a,b) -> a.time-b.time);
+        
+        //Waiting at Right Side
+        PriorityQueue<Worker> rightToLeft = new PriorityQueue<Worker>(k);
+        
+        //Putting new boxes
+        PriorityQueue<Worker> putNew = new PriorityQueue<Worker>(k, (a,b) -> a.time-b.time);
+        
+        //Initially all workers waiting at left
+        for(int i=0;i<k;i++) {
+            leftToRight.offer(worker[i]);
+        }
+        
+        //Num boxes remaining
+        int remaining = n;
+        
+        //Current time
+        int currentTime = 0;
+        
+        
+        while(remaining > 0) {
+            //Move the workers from pickOld to rightToLeft or putNew to leftToRight if currentTime >= worker's time to complete the task
+            while(!pickOld.isEmpty() && pickOld.peek().time <= currentTime) {
+                Worker w = pickOld.poll();
+                rightToLeft.offer(w);
+            }
+            while(!putNew.isEmpty() && putNew.peek().time <= currentTime) {
+                Worker w = putNew.poll();
+                leftToRight.offer(w);
+            }
+            
+            //Move worker on the bridge and update the worker's time to complete the task
+            if(!rightToLeft.isEmpty()) {
+                Worker w = rightToLeft.poll();
+                w.time = currentTime + w.RL + w.PN;
+                putNew.offer(w);
+                currentTime = currentTime + w.RL;
+            } else if(!leftToRight.isEmpty()) {
+                Worker w = leftToRight.poll();
+                w.time = currentTime + w.LR + w.PO;
+                pickOld.offer(w);
+                remaining--;
+                currentTime = currentTime + w.LR;
+            } else {
+                //Bridge is empty and no worker waiting, move currenttime to first person finishing the task
+                currentTime = Integer.MAX_VALUE;
+                if(!pickOld.isEmpty()) {
+                    currentTime = Math.min(currentTime, pickOld.peek().time);
+                }
+                if(!putNew.isEmpty()) {
+                    currentTime = Math.min(currentTime, putNew.peek().time);
+                }
+            }
+        }
+        //Now empty the right warehouse and keep workers moving
+        while(!rightToLeft.isEmpty() || !pickOld.isEmpty()) {
+            while(!pickOld.isEmpty() && pickOld.peek().time <= currentTime) {
+                Worker w = pickOld.poll();
+                rightToLeft.offer(w);
+            }
+            if(!rightToLeft.isEmpty()) {
+                Worker w = rightToLeft.poll();
+                w.time = currentTime + w.RL + w.PN;
+                currentTime = currentTime + w.RL;
+            } else {
+                currentTime = pickOld.peek().time;
+            }
+        }
+        return currentTime;
+    }
+    
+    class Worker implements Comparable<Worker> {
+        int index;
+        int LR;
+        int PO;
+        int RL;
+        int PN;
+        int time;
+        
+        Worker(int i, int LR, int PO, int RL, int PN) {
+            this.index = i;
+            this.LR = LR;
+            this.PO = PO;
+            this.RL = RL;
+            this.PN = PN;
+            this.time = 0;
+        }
+        
+        @Override
+        public int compareTo(Worker w) {
+            if(this.LR+this.RL!=w.LR+w.RL) {
+                return w.LR+w.RL-this.LR-this.RL;
+            }
+            return w.index-this.index;
+        }
+        
+        @Override
+        public String toString() {
+            return index+":"+time+":["+LR+" "+PO+" "+RL+" "+PN+"]";
+        }
     }
 }
