@@ -346,6 +346,7 @@
 | [0044-wildcard-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
@@ -379,6 +380,7 @@
 | [0060-permutation-sequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -545,6 +547,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [2470-removing-stars-from-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
@@ -692,4 +695,8 @@
 | ------- |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
