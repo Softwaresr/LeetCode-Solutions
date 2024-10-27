@@ -1,113 +1,140 @@
 class Solution {
-
-    int result = -1;
-    Set<String> alreadyChecked = new HashSet<>();
-
     public int findMinStep(String board, String hand) {
-        Set<String> handPermutations = new StringPermutations().permute(hand);        
-        for (String handSinlePermutation : handPermutations) {
-            dfs(board, handSinlePermutation);            
-        }
-        return result != -1 ? hand.length() - result : - 1;
+        final Zuma zuma = Zuma.create(board, hand);
+        final HashSet<Long> visited = new HashSet<>();
+        final ArrayList<Zuma> init = new ArrayList<>();
+        visited.add(zuma.board());
+        init.add(zuma);
+        return bfs(init, 0, visited);
     }
-
-    private void dfs(String board, String charsLeft) {        
-        String memoKey = board + "#" + charsLeft;
-        if (alreadyChecked.contains(memoKey) || charsLeft.length() <= result) {
-            return;
+    private int bfs(ArrayList<Zuma> curr, int k, HashSet<Long> visited) {
+        if (curr.isEmpty()) {
+            return -1;
         }
-
-        char charToInsert = charsLeft.charAt(0);
-        charsLeft = charsLeft.substring(1, charsLeft.length());
-        
-        for (int i = 1; i <= board.length(); i++) {
-            if (!isGoodPlaceToInsert(board, i, charToInsert)) {
-                continue;
+        final ArrayList<Zuma> next = new ArrayList<>();
+        for (Zuma zuma : curr) {
+            ArrayList<Zuma> neib = zuma.getNextLevel(k, visited);
+            if (neib == null) {
+                return k + 1;
             }
-            String newBoard = add(board, charToInsert, i);
-            newBoard = reduce(newBoard, i);
-            if (newBoard.length() == 0) {
-                result = Math.max(result, charsLeft.length());
-            } else if (!charsLeft.isEmpty()) {
-                dfs(newBoard, charsLeft);
-            }
-        }    
-        alreadyChecked.add(memoKey);
+            next.addAll(neib);
+        }
+        return bfs(next, k + 1, visited);
     }
-
-    private boolean isGoodPlaceToInsert(String board, int i, char charToInsert) {
-        return board.charAt(i - 1) == charToInsert 
-            || (i >= 1 && i < board.length() && board.charAt(i) == board.charAt(i - 1));
+}
+record Zuma(long board, long hand) {
+    public static Zuma create(String boardStr, String handStr) {
+        return new Zuma(Zuma.encode(boardStr, false), Zuma.encode(handStr, true));
     }
-
-    private String add(String board, char c, int index) {
-        StringBuilder out = new StringBuilder();
-        out.append(board.substring(0, index));
-        out.append(c);
-        if (index < board.length()) {
-            out.append(board.substring(index, board.length()));
-        }        
-        return out.toString();
-    }
-
-    private String reduce(String board, int index) {    
-        char c = board.charAt(index);
-        int left = index;
-        while (left > 0 && board.charAt(left - 1) == c) {
-            left--;
-        }
-        int right = index;
-        while (right < board.length() - 1 && board.charAt(right + 1) == c) {
-            right++;
-        }
-        if ((right - left + 1) >= 3) {
-            board = remove(board, left, right);
-            if (board.length() > 2) {                
-                int newIndex = (left != 0) ? left - 1 : left + 1;                
-                board = reduce(board, newIndex);                 
-            }            
-        }
-        return board;
-    }
-
-    private String remove(String board, int left, int right) {
-        StringBuilder out = new StringBuilder();
-        if (left >= 0) {
-            out.append(board.substring(0, left));
-        }
-        if (right < board.length()) {
-            out.append(board.substring(right + 1, board.length()));
-        }
-        return out.toString();
-    }
-
-    public class StringPermutations {
-
-        public Set<String> permute(String text) {
-            Set<String> result = new HashSet<>();        
-            result.add(text);
-            permutation(0, text.toCharArray(), result);
-            return result;
-        }
-
-        private void permutation(int start, char[] chars, Set<String> result) {
-            for (int i = start; i <= chars.length - 1; i++) {                
-                swap(chars, start, i);                
-                if (i != start) {
-                    result.add(new String(chars));                          
-                }                
-                permutation(start + 1, chars, result);
-                swap(chars, start, i);
+    public ArrayList<Zuma> getNextLevel(int depth, HashSet<Long> visited) {
+        final ArrayList<Zuma> next = new ArrayList<>();
+        final ArrayList<long[]> handList = this.buildHandList();
+        final long[] boardList = new long[32];
+        final int size = this.buildBoardList(boardList);
+        for (long[] pair : handList) {
+            for (int i = 0; i < size; ++i) {
+                final long rawBoard = pruningCheck(boardList[i], pair[0], i * 3, depth);
+                if (rawBoard == -1) {
+                    continue;
+                }
+                final long nextBoard = updateBoard(rawBoard);
+                if (nextBoard == 0) {
+                    return null;
+                }
+                if (pair[1] == 0 || visited.contains(nextBoard)) {
+                    continue;
+                }
+                visited.add(nextBoard);
+                next.add(new Zuma(nextBoard, pair[1]));
             }
         }
+        return next;
+    }
+    private long pruningCheck(long insBoard, long ball, int pos, int depth) {
+        final long L = (insBoard >> (pos + 3)) & 0x7;
+        final long R = (insBoard >> (pos - 3)) & 0x7;
 
-        private void swap(char[] chars, int a, int b) {
-            if (a == b) {
-                return;
-            }
-            char temp = chars[b];
-            chars[b] = chars[a];
-            chars[a] = temp;            
+        if (depth == 0 && (ball != R) && (L != R) || depth > 0 && (ball != R)) {
+            return -1;
         }
+        return insBoard | (ball << pos);
+    }
+    private long updateBoard(long board) {
+        long stack = 0;
+        for (int i = 0; i < 64; i += 3) {
+            final long curr = (board >> i) & 0x7;
+            final long top = (stack) &0x7;
+            if ((top > 0) && (curr != top) && (stack & 0x3F) == ((stack >> 3) & 0x3F)) {
+                stack >>= 9;
+                if ((stack & 0x7) == top) stack >>= 3;
+            }
+            if (curr == 0) {
+                break;
+            }
+            stack = (stack << 3) | curr;
+        }
+        return stack;
+    }
+    private ArrayList<long[]> buildHandList() {
+        final ArrayList<long[]> handList = new ArrayList<>();
+        long prevBall = 0;
+        long ballMask = 0;
+
+        for (int i = 0; i < 16; i += 3) {
+            final long currBall = (this.hand >> i) & 0x7;
+            if (currBall == 0) {
+                break;
+            }
+
+            if (currBall != prevBall) {
+                prevBall = currBall;
+                handList.add(
+                    new long[] {currBall, ((this.hand >> 3) & ~ballMask) | (this.hand & ballMask)});
+            }
+            ballMask = (ballMask << 3) | 0x7;
+        }
+        return handList;
+    }
+    private int buildBoardList(long[] buffer) {
+        int ptr = 0;
+        long ballMask = 0x7;
+        long insBoard = this.board << 3;
+        buffer[ptr++] = insBoard;
+
+        while (true) {
+            final long currBall = this.board & ballMask;
+            if (currBall == 0) {
+                break;
+            }
+
+            ballMask <<= 3;
+            insBoard = (insBoard | currBall) & ~ballMask;
+            buffer[ptr++] = insBoard;
+        }
+        return ptr;
+    }
+    private static long encode(String stateStr, boolean sortFlag) {
+        final char[] stateChars = stateStr.toCharArray();
+        if (sortFlag) {
+            Arrays.sort(stateChars);
+        }
+
+        long stateBits = 0;
+        for (char ch : stateChars) {
+            stateBits = (stateBits << 3) | Zuma.encode(ch);
+        }
+        return stateBits;
+    }
+    private static long encode(char ch) {
+        return switch (ch) {
+            case 'R' -> 0x1;
+            case 'G' -> 0x2;
+            case 'B' -> 0x3;
+            case 'W' -> 0x4;
+            case 'Y' -> 0x5;
+            case ' ' -> 0x0;
+            default  ->
+                throw new IllegalArgumentException("Invalid char: " + ch);
+        };
     }
 }
