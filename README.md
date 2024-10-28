@@ -281,6 +281,7 @@
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2601-number-of-great-partitions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2601-number-of-great-partitions) |
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -594,6 +595,7 @@
 | [0488-zuma-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -634,6 +636,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0514-freedom-trail](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Graph
 |  |
 | ------- |
@@ -678,12 +681,14 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Database
 |  |
 | ------- |
