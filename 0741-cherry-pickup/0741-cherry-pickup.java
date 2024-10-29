@@ -1,42 +1,31 @@
-import java.util.*;
-
-public class Solution {
-    public int cherryPickup(int[][] grid) {
-        int n = grid.length;
-        Integer[][][] memo = new Integer[n][n][n];
-        return Math.max(0, dp(grid, memo, 0, 0, 0));
-    }
-    
-    private int dp(int[][] grid, Integer[][][] memo, int r1, int c1, int c2) {
-        int n = grid.length;
-        int r2 = r1 + c1 - c2;
-        
-        // Out of bounds or thorn cell
-        if (r1 >= n || r2 >= n || c1 >= n || c2 >= n || grid[r1][c1] == -1 || grid[r2][c2] == -1)
+class Solution {
+    int dfs(int[][] grid, int i1, int j1, int i2, Integer[][][] dp) {
+        int j2 = i1 + j1 - i2;
+        if (i1 >= grid.length || j1 >= grid[0].length || i2 >= grid.length || j2 >= grid[0].length || grid[i1][j1] == -1
+                || grid[i2][j2] == -1)
             return Integer.MIN_VALUE;
-        
-        // Memoization check
-        if (memo[r1][c1][c2] != null)
-            return memo[r1][c1][c2];
-        
-        // Base case: reached bottom-right corner
-        if (r1 == n - 1 && c1 == n - 1)
-            return grid[r1][c1];
-        
-        // Calculate cherries collected at (r1, c1) and (r2, c2)
-        int cherries = (r1 == r2 && c1 == c2) ? grid[r1][c1] : grid[r1][c1] + grid[r2][c2];
-        
-        // Move right or down
-        int maxCherries = Math.max(dp(grid, memo, r1, c1 + 1, c2), dp(grid, memo, r1 + 1, c1, c2));
-        // Move down or right
-        maxCherries = Math.max(maxCherries, dp(grid, memo, r1, c1 + 1, c2 + 1));
-        maxCherries = Math.max(maxCherries, dp(grid, memo, r1 + 1, c1, c2 + 1));
-        
-        // Memoize the result
-        memo[r1][c1][c2] = (maxCherries == Integer.MIN_VALUE) ? Integer.MIN_VALUE : maxCherries + cherries;
-        
-        return memo[r1][c1][c2];
+
+        if (i1 == grid.length - 1 && j1 == grid[0].length - 1 && i2 == grid.length - 1 && j2 == grid[0].length - 1)
+            return grid[i1][j1];
+
+        if (dp[i1][j1][i2] != null)
+            return dp[i1][j1][i2];
+
+        int cherry = grid[i1][j1];
+        if (i1 != i2 || j1 != j2)
+            cherry += grid[i2][j2];
+
+        cherry += Math.max(
+                Math.max(dfs(grid, i1 + 1, j1, i2 + 1, dp),
+                        dfs(grid, i1 + 1, j1, i2, dp)),
+                Math.max(dfs(grid, i1, j1 + 1, i2 + 1, dp),
+                        dfs(grid, i1, j1 + 1, i2, dp)));
+        return dp[i1][j1][i2] = cherry;
+
     }
 
-  
+    public int cherryPickup(int[][] grid) {
+        Integer[][][] dp = new Integer[grid.length][grid[0].length][grid.length];
+        return Math.max(dfs(grid, 0, 0, 0, dp), 0);
+    }
 }
