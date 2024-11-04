@@ -1,44 +1,50 @@
 class Solution {
-
+    private int[] parents; //parents[i] => parent of vertex i if tree was rooted at vertex 0.
+    int answer=0;      //required answer
+    int k;
+    List<List<Integer>> tree;
+    List<HashSet<Integer>> guess_graph;
     public int rootCount(int[][] edges, int[][] guesses, int k) {
-        int n = edges.length + 1;
-        
-        List<Integer>[] graph = new ArrayList[n];
-        Set<Integer>[] guessesGraph = new HashSet[n];
-        for (int i = 0; i < n; i++) {
-            graph[i] = new ArrayList<>();
-            guessesGraph[i] = new HashSet<>();
+        this.tree = new ArrayList<>();
+        this.guess_graph = new ArrayList<>();
+        this.k = k;
+        int n = edges.length+1;
+        for(int i=0;i<n;i++) {
+            tree.add(new ArrayList<>());   //Initialize tree and guesses
+            guess_graph.add(new HashSet<>());
         }
-        for (int[] edge : edges) {
-            graph[edge[0]].add(edge[1]);
-            graph[edge[1]].add(edge[0]);
+        for(int[] edge: edges){
+            tree.get(edge[0]).add(edge[1]);  //Fill the tree
+            tree.get(edge[1]).add(edge[0]);
         }
-        for (int[] guess : guesses) {
-            guessesGraph[guess[0]].add(guess[1]);
+        for(int[] g: guesses){
+            guess_graph.get(g[0]).add(g[1]); //Fill guesses
         }
-
-        int res = 0;
-        Map<Long, Integer> memo = new HashMap<>();
-        for (int i = 0; i<n; i++) {
-            if (dfs(graph, guessesGraph, memo, i, -1) >= k) {
-                res++;
-            }
+        parents = new int[n];
+        int correct_guesses = 0;
+        fill_parent(0,-1);  //Fill the parents array
+        for(int i=1;i<n;i++){
+            int p = parents[i];
+            if(guess_graph.get(p).contains(i)) correct_guesses++;  //If its a correct guess increase the number of guesses
         }
-        return res;
+        if(correct_guesses >= k) answer++;  //If 0 is a possible node increase answer
+        for(int c: tree.get(0)) dfs(c,0, correct_guesses); //Second dfs
+        return answer;
     }
-    
-    
-    int dfs(List<Integer>[] graph, Set<Integer>[] guessesGraph, Map<Long, Integer> memo, int current, int prev) {
-        long key = (long)current * 1000000 + prev;
-        if (memo.containsKey(key)) return memo.get(key);
-        int count = prev != -1 && guessesGraph[prev].contains(current) ? 1 : 0;
-        for (int next : graph[current]) {
-            if (next != prev) {
-                count += dfs(graph, guessesGraph, memo, next, current);
-            }
+    private void fill_parent(int node,int parent){
+        parents[node] = parent;
+        for(int child: tree.get(node)){
+            if(child==parent) continue;
+            fill_parent(child,node);
         }
-        memo.put(key, count);
-        return count;
     }
-    
+    private void dfs(int node, int parent,int correct_guesses){
+        int cur = correct_guesses;
+        if(guess_graph.get(parent).contains(node)) cur--;
+        if(guess_graph.get(node).contains(parent)) cur++;
+        if(cur>=k) answer++;
+        for(int child: tree.get(node)){
+            if(child!=parent) dfs(child,node,cur);
+        }
+    }
 }
