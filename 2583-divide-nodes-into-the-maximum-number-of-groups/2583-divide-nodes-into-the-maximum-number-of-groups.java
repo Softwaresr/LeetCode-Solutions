@@ -1,87 +1,63 @@
- class Solution {
-    public int magnificentSets(int n, int[][] edges) {
-        // bfs -> will detect odd cycle (graph must be bipartite==not have an odd cycle)
-        // for each component take the maximum
-        // dfs -> to partition into components
-        
-        Map<Integer, List<Integer>> graph = new HashMap<>();
-        for (int node = 1; node <= n; node++) {
-            graph.put(node, new ArrayList<>());
+class Solution {
+ public int magnificentSets(int n, int[][] edges) {
+        int[] degree = new int[n + 1];
+        for (int[] e : edges) {
+            degree[e[0]]++;
+            degree[e[1]]++;
         }
-        
-        for (int[] edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-            graph.get(u).add(v);
-            graph.get(v).add(u);
+        int[][] adjacent = new int[n + 1][];
+        for (int i = 1; i <= n; i++) adjacent[i] = new int[degree[i]];
+        for (int[] e : edges) {
+            int a = e[0];
+            int b = e[1];
+            adjacent[a][--degree[a]] = b;
+            adjacent[b][--degree[b]] = a;
         }
-        
-        Map<Integer, List<Integer>> components = new HashMap<>();
-        Set<Integer> visited = new HashSet<>();
-        int component = 1;
-        for (int node = 1; node <= n; node++) {
-            if(visited.contains(node)) continue;
-            visited.add(node);
-            components.put(component, new ArrayList<>());
-            dfsComponents(component++, node, graph, components, visited);    
-        }
-        int[] componentsMaxTravel = new int[component];
-        int finalRes = 0;
-        for(int comp = 1; comp < component; comp++) {
-            for (int compNode : components.get(comp)) {
-                
-                int compRes = bfs(compNode, graph);
-                if(compRes == -1) return -1;
-                componentsMaxTravel[comp] = Math.max(componentsMaxTravel[comp], compRes);
+
+        Queue<Integer> bfs = new LinkedList<>();
+        int[] distance = new int[n + 1];
+        int[] maxDistance = new int[n + 1];
+        for (int i = 1; i <= n; i++) {
+            Arrays.fill(distance, -1);
+            bfs.offer(i);
+            distance[i] = 0;
+            int maxDist = 0;
+            while (bfs.size() > 0) {
+                int node = bfs.poll();
+                int nextDist = distance[node] + 1;
+                for (int nextNode : adjacent[node])
+                    if (distance[nextNode] < 0) {
+                        distance[nextNode] = nextDist;
+                        maxDist = nextDist;
+                        bfs.offer(nextNode);
+                    }
             }
-            finalRes += componentsMaxTravel[comp];
+            maxDistance[i] = maxDist;
         }
 
-        return finalRes;
-        
-    }
-
-    private void dfsComponents(int component, int node, Map<Integer, List<Integer>> graph, Map<Integer, List<Integer>> components, Set<Integer> visited) {
-        components.get(component).add(node);
-        for (int neighbor : graph.get(node)) {
-            // happens when there is more than one spanning tree. I.E you can arrive at a node in more than one way
-            if(visited.contains(neighbor)) continue;
-            visited.add(neighbor);
-            dfsComponents(component, neighbor, graph, components, visited);
-        }
-    }
-
-    private int bfs(int node, Map<Integer, List<Integer>> graph) {
-        int reach = 0;
-        Set<Integer> visited = new HashSet<>();
-        Queue<Integer> queue = new LinkedList<>();
-        Set<Integer> curLevel = new HashSet<>();
-        
-        queue.offer(node);
-        visited.add(node);
-        
-        while (!queue.isEmpty()) {
-            int n = queue.size();
-            Set<Integer> nextLevel = new HashSet<>();
-
-            
-            
-            for (int i = 0; i < n; i++) {
-                int curNode = queue.poll();
-
-                for(int neighbor : graph.get(curNode)) {
-                    if(curLevel.contains(neighbor)) return -1; // Colored with different color == not bipartite
-                    if(visited.contains(neighbor)) continue;
-                    nextLevel.add(neighbor);
-                    visited.add(neighbor);
-                    queue.offer(neighbor);
+        Arrays.fill(distance, -1);
+        int res = 0;
+        for (int i = 1; i <= n; i++) {
+            if (distance[i] >= 0) continue;
+            bfs.offer(i);
+            distance[i] = 0;
+            int diameter = 0;
+            while (bfs.size() > 0) {
+                int node = bfs.poll();
+                diameter = Math.max(diameter, maxDistance[node]);
+                int nextDist = distance[node] + 1;
+                for (int nextNode : adjacent[node]) {
+                    if (distance[nextNode] < 0) {
+                        distance[nextNode] = nextDist;
+                        bfs.offer(nextNode);
+                    } else if ((nextDist + distance[nextNode]) % 2 != 0) return -1;
                 }
             }
-
-            curLevel = nextLevel;
-            reach++;
+            res += diameter + 1;
         }
-        
-        return reach;
+        return res;
     }
 }
+
+//Each node in the graph belongs to exactly one group.
+//
