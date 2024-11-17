@@ -59,5 +59,3 @@ class Solution {
     }
 }
 
-//Each node in the graph belongs to exactly one group.
-//
