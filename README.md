@@ -382,6 +382,7 @@
 | [2470-removing-stars-from-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2563-split-message-based-on-limit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2563-split-message-based-on-limit) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Math
 |  |
@@ -420,6 +421,7 @@
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Sorting
