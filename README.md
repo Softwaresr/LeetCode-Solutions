@@ -265,6 +265,7 @@
 | [0283-move-zeroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0334-increasing-triplet-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0391-perfect-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -418,6 +419,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0334-increasing-triplet-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
