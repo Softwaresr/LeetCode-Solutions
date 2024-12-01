@@ -377,6 +377,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1252-break-a-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 | [1894-merge-strings-alternately](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
@@ -421,6 +422,7 @@
 | [0044-wildcard-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1252-break-a-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
