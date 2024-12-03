@@ -292,6 +292,7 @@
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Binary Search
@@ -388,6 +389,7 @@
 | [2563-split-message-based-on-limit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2563-split-message-based-on-limit) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Math
 |  |
@@ -655,6 +657,7 @@
 | [0238-product-of-array-except-self](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Binary Indexed Tree
 |  |
 | ------- |
