@@ -268,6 +268,7 @@
 | [0322-coin-change](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0391-perfect-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0391-perfect-rectangle) |
+| [0403-frog-jump](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0518-coin-change-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
@@ -497,6 +498,7 @@
 | [0233-number-of-digit-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0403-frog-jump](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0403-frog-jump) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0458-poor-pigs) |
 | [0488-zuma-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0488-zuma-game) |
