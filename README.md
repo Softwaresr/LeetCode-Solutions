@@ -336,6 +336,7 @@
 | [0042-trapping-rain-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0125-valid-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0148-sort-list) |
@@ -370,6 +371,7 @@
 | [0071-simplify-path](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0087-scramble-string) |
+| [0125-valid-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
