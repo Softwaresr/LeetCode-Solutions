@@ -477,6 +477,7 @@
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -573,6 +574,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -722,6 +724,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Data Stream
@@ -814,4 +817,8 @@
 |  |
 | ------- |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
