@@ -518,6 +518,7 @@
 | [0518-coin-change-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0552-student-attendance-record-ii) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
