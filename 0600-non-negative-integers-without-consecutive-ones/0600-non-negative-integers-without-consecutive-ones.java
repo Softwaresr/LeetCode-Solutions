@@ -1,26 +1,23 @@
-class Solution {
-    
-	// initial count is 2 for 0 and 1
-    int cnt = 2;
-    
-    public int findIntegers(int n) {
-        
-        dfs(1, 1, n);
-        return cnt;
-    }
-    
-    public void dfs(int prev, int num, int n){
-        
-        //append 0
-        if(num*2 <= n){
-            cnt++;
-            dfs(0, num*2, n);
+public class Solution {
+    public int findIntegers(int num) {
+        int[] f = new int[32];
+        f[0] = 1;
+        f[1] = 2;
+        for (int i = 2; i < f.length; i++)
+            f[i] = f[i - 1] + f[i - 2];
+        int i = 30, sum = 0, prev_bit = 0;
+        while (i >= 0) {
+            if ((num & (1 << i)) != 0) {
+                sum += f[i];
+                if (prev_bit == 1) {
+                    sum--;
+                    break;
+                }
+                prev_bit = 1;
+            } else
+                prev_bit = 0;
+            i--;
         }
-        
-        //append 1
-        if(prev == 0 && num*2+1 <= n){
-            cnt++;
-            dfs(1, num*2+1, n);
-        }
+        return sum + 1;
     }
 }
