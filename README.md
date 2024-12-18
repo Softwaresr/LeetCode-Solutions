@@ -664,6 +664,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Rolling Hash
 |  |
@@ -719,6 +720,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Eulerian Circuit
 |  |
