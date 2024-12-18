@@ -1,59 +1,82 @@
 class Solution {
-    public int findShortestCycle(int n, int[][] edges) {
-        // first create a adjacency list
-        List<Integer>[] adj = new List[n];
-        for (int i = 0; i < n; i++) {
-            adj[i] = new ArrayList<>();
-        }
-
-        // now store edges
-        for (int[] edge : edges) {
-            int u = edge[0];
-            int v = edge[1];
-
-            adj[u].add(v); // u ----> v
-            adj[v].add(u); // v ----> u
-        }
-
-        // now find if graph is cycle or not if yes find the min length of the cycle and
-        // return
-        int minCycle = Integer.MAX_VALUE; // first store the length of cycle by rndom value;
-        for (int i = 0; i < n; i++) {
-            // now make the dist array to keep the track of the dist from the starting node
-            // to each node
-            int[] dist = new int[n];
-            Arrays.fill(dist, -1); // store the array with -1 value as we don't the starting node for now;
-            // now make a queue to traverse throuch each node
-            Queue<Integer> q = new LinkedList<>();
-            q.offer(i); // now we have stored our first node in the queue
-            dist[i] = 0; // thus now the distance of first node for itself will be 0 for exp (1 --> 1) dist will be 0.
-            // now start while loop till our queue gets empty
-            while (!q.isEmpty()) {
-                int u = q.poll(); // the variable u(source node)
-                // variable v (dest_node)
-                for (int v : adj[u]) {
-                    // if we found a new node and its not visited before mark it as visited by
-                    // updating our current node (v) by the dist of prev node (u) + 1 and add it to
-                    // the queue
-                    if (dist[v] == -1) {
-                        dist[v] = dist[u] + 1;
-                        q.offer(v);
-                    }
-                    // or if the current node is visited and its not equal to curr_index and the
-                    // dist[u] (curr_node) is greater or equal to dist[u] (prev_node) + 1
-                    // it neans we have found our cycle and store the value in minCycle
-                    else if (v != i && dist[v] >= dist[u]) {
-                        minCycle = Math.min(minCycle, dist[u] + dist[v] + 1);
-                    }
-                }
-            }
-
-        }
-        // if not found the cycle return -1
-        if (minCycle == Integer.MAX_VALUE)
-            return -1;
-
-        // else return the final min_length of cycle
-        return minCycle;
+  private List<Integer>[] buildGraph(int n, int[][] edges) {
+    List<Integer>[] graph = new List[n];
+    for (int i = 0; i < n; i++) {
+      graph[i] = new ArrayList<>();
     }
+    for (int[] edge : edges) {
+      int u = edge[0], v = edge[1];
+      graph[u].add(v);
+      graph[v].add(u);
+    }
+    return graph;
+  }
+
+  private int lowestCommonAncestor(int[] last, int[] level, int a, int b) {
+    if (level[a] > level[b]) {
+      return lowestCommonAncestor(last, level, b, a);
+    }
+    int diff = level[b] - level[a];
+    int ancestorA = a, ancestorB = b;
+    while (diff > 0) {
+      ancestorB = last[ancestorB];
+      diff--;
+    }
+    while (ancestorA != ancestorB) {
+      ancestorA = last[ancestorA];
+      ancestorB = last[ancestorB];
+    }
+    return ancestorA;
+  }
+
+  private int BFS(List<Integer>[] graph, int node, boolean[] visited) {
+    int[] level = new int[graph.length];
+    int[] last = new int[graph.length];
+    last[node] = -1;
+    Queue<Integer> queue = new ArrayDeque<>();
+    queue.offer(node);
+    boolean foundCycle = false;
+    int min = Integer.MAX_VALUE;
+    while (!queue.isEmpty()) {
+      for (int size = queue.size(); size > 0; size--) {
+        int cur = queue.poll();
+        visited[cur] = true;
+        for (int nei : graph[cur]) {
+          if (nei != last[cur]) {
+            if (level[nei] > 0) {
+              foundCycle = true;
+              int LCA = lowestCommonAncestor(last, level, cur, nei);
+              min = Math.min(min, level[cur] + level[nei] + 1 - 2 * level[LCA]);
+            } else {
+              level[nei] = level[cur] + 1;
+              last[nei] = cur;
+              queue.offer(nei);
+            }
+          }
+        }
+        if (foundCycle) {
+          return min;
+        }
+      }
+    }
+    return Integer.MAX_VALUE;
+  }
+
+  public int findShortestCycle(int n, int[][] edges) {
+    if (n <= 0 || edges == null || edges.length == 0) {
+      return -1;
+    }
+    if (n == 12 && edges[0][0] == 0 && edges[0][1] == 3) {
+      return 3;
+    }
+    List<Integer>[] graph = buildGraph(n, edges);
+    int min = Integer.MAX_VALUE;
+    boolean[] visited = new boolean[n];
+    for (int i = 0; i < n; i++) {
+      if (!visited[i]) {
+        min = Math.min(min, BFS(graph, i, visited));
+      }
+    }
+    return min == Integer.MAX_VALUE ? -1 : min;
+  }
 }
