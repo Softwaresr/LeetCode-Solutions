@@ -295,6 +295,7 @@
 | [2549-next-greater-element-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2549-next-greater-element-iv) |
 | [2601-number-of-great-partitions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2601-number-of-great-partitions) |
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
+| [2648-number-of-ways-to-earn-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -530,6 +531,7 @@
 | [2569-number-of-beautiful-partitions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2569-number-of-beautiful-partitions) |
 | [2577-count-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2577-count-palindromic-subsequences) |
 | [2601-number-of-great-partitions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2601-number-of-great-partitions) |
+| [2648-number-of-ways-to-earn-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3184-maximum-balanced-subsequence-sum) |
