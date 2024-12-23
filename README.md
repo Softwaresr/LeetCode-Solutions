@@ -488,6 +488,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -727,6 +728,7 @@
 | [0332-reconstruct-itinerary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Eulerian Circuit
