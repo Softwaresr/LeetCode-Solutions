@@ -300,6 +300,7 @@
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Binary Search
@@ -436,6 +437,7 @@
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2491-smallest-even-multiple](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2635-check-if-point-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2635-check-if-point-is-reachable) |
+| [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Greedy
 |  |
@@ -465,6 +467,7 @@
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2549-next-greater-element-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2549-next-greater-element-iv) |
+| [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -536,6 +539,7 @@
 | [2601-number-of-great-partitions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2601-number-of-great-partitions) |
 | [2648-number-of-ways-to-earn-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
+| [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3184-maximum-balanced-subsequence-sum) |
 ## Recursion
@@ -689,6 +693,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 ## Binary Indexed Tree
 |  |
 | ------- |
