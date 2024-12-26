@@ -408,6 +408,7 @@
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 ## Math
 |  |
 | ------- |
@@ -441,6 +442,7 @@
 | [2635-check-if-point-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2635-check-if-point-is-reachable) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Dynamic Programming
 |  |
@@ -699,6 +702,7 @@
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
+| [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -818,6 +822,7 @@
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2491-smallest-even-multiple](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2635-check-if-point-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2635-check-if-point-is-reachable) |
+| [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
