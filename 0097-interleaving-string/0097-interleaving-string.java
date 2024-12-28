@@ -1,22 +1,25 @@
-public class Solution {
+class Solution {
     public boolean isInterleave(String s1, String s2, String s3) {
-        int m = s1.length(), n = s2.length(), l = s3.length();
-        if (m + n != l) return false;
+        Boolean[][] mem = new Boolean[s1.length() + 1][s2.length() + 1];
+        return is(s1, s2, s3, 0, 0, mem);
+    }
 
-        boolean[] dp = new boolean[n + 1];
-        dp[0] = true;
-
-        for (int j = 1; j <= n; ++j) {
-            dp[j] = dp[j - 1] && s2.charAt(j - 1) == s3.charAt(j - 1);
+    private boolean is(String s1, String s2, String s3, int i, int j, Boolean[][] mem) {
+        int idx = i + j;
+        if (idx >= s3.length()) {
+            return i >= s1.length() && j >= s2.length();
         }
+        if (mem[i][j] != null) return mem[i][j];
 
-        for (int i = 1; i <= m; ++i) {
-            dp[0] = dp[0] && s1.charAt(i - 1) == s3.charAt(i - 1);
-            for (int j = 1; j <= n; ++j) {
-                dp[j] = (dp[j] && s1.charAt(i - 1) == s3.charAt(i + j - 1)) || (dp[j - 1] && s2.charAt(j - 1) == s3.charAt(i + j - 1));
-            }
+        boolean res = false;
+        if (i < s1.length() && s1.charAt(i) == s3.charAt(idx)) {
+            res = is(s1, s2, s3, i + 1, j, mem);
         }
-        
-        return dp[n];
+        //if (res) return true;
+        if (!res && j < s2.length() && s2.charAt(j) == s3.charAt(idx)) {
+            res = is(s1, s2, s3, i, j + 1, mem);
+        }
+        mem[i][j] = res;
+        return res;
     }
 }
