@@ -734,6 +734,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
@@ -795,6 +796,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -807,6 +809,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -854,6 +857,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Counting
 |  |
