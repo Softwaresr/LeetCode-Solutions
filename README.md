@@ -301,6 +301,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
+| [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -504,6 +505,7 @@
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
+| [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
@@ -616,6 +618,7 @@
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
+| [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -847,6 +850,7 @@
 | [0136-single-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 ## Queue
 |  |
 | ------- |
