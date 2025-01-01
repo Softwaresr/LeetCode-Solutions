@@ -1,26 +1,104 @@
 class Solution {
-        public int maximumStrongPairXor(int[] A) {
-        int res = 0;
-        for (int i = 20; i >= 0; i--) {
-            res <<= 1;
-            HashMap<Integer, Integer> pref = new HashMap<>(), pref2 = new HashMap<>();
-            for (int a : A) {
-                int p = a >> i;
-                if (!pref.containsKey(p)) {
-                    pref.put(p, a);
-                    pref2.put(p, a);
+    class Trie{
+        class Node{
+            Node child0;
+            Node child1;
+            int lastIdx;
+        }
+
+        Node head;
+        int maxBit;
+
+        Trie(int maxBit){
+            this.maxBit = maxBit;
+            head = new Node();
+        }
+
+        void insert(int num, int idx){
+            Node temp = head;
+
+            int i = maxBit;
+
+            while(i >= 0){
+                int bit = (num & (1 << i));
+
+                if(bit == 0){
+                    if(temp.child0 == null){
+                        temp.child0 = new Node();
+                    }
+
+                    temp = temp.child0;
                 }
-                pref.put(p, Math.min(pref.get(p), a));
-                pref2.put(p, Math.max(pref2.get(p), a));
-            }
-            for (int x : pref.keySet()) {
-                int y = res ^ 1 ^ x;
-                if (x >= y && pref.containsKey(y) && pref.get(x) <= pref2.get(y) * 2) {
-                    res |= 1;
-                    break;
+                else{
+                    if(temp.child1 == null){
+                        temp.child1 = new Node();
+                    }
+
+                    temp = temp.child1;
                 }
+
+                temp.lastIdx = idx;
+                i--; 
             }
         }
-        return res;
+
+        int getMaxXor(int num, int minIdx){
+            Node temp = head;
+
+            int i = maxBit;
+            int maxXor = 0;
+
+            while(i >= 0){
+
+                int bit = (num & (1 << i));
+
+                if(bit == 0){
+                    if(temp.child1 != null && temp.child1.lastIdx >= minIdx){
+                        temp = temp.child1;
+                        maxXor = (maxXor | (1 << i));
+                    }
+                    else temp = temp.child0;
+                }
+                else{
+                    if(temp.child0 != null && temp.child0.lastIdx >= minIdx){
+                        temp = temp.child0;
+                        maxXor = (maxXor | (1 << i));
+                    }
+                    else temp = temp.child1;
+                }
+
+                i--;
+            }
+
+            return maxXor;
+        }
+    }
+    public int maximumStrongPairXor(int[] nums) {
+        Arrays.sort(nums);
+
+        int n = nums.length;
+
+        Trie t = new Trie((int)(Math.log(nums[n - 1]) / Math.log(2)));
+
+        int i = 0;
+        int j = 0;
+
+        int maxXor = 0;
+
+        while(j < n){
+            t.insert(nums[j], j);
+
+            int half = (int)(Math.ceil(nums[j] / 2.0));
+
+            while(nums[i] < half){
+                i++;
+            }
+
+            maxXor = Math.max(maxXor, t.getMaxXor(nums[j], i));
+
+            j++;
+        }
+
+        return maxXor;
     }
 }
