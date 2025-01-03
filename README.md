@@ -276,6 +276,7 @@
 | [0518-coin-change-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0546-remove-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
@@ -403,6 +404,7 @@
 | [0488-zuma-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0488-zuma-game) |
 | [0514-freedom-trail](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0564-find-the-closest-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1252-break-a-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
@@ -504,6 +506,7 @@
 | [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
