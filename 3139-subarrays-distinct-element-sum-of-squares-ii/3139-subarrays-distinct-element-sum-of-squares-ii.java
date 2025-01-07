@@ -60,26 +60,7 @@ class Solution {
         }
     }
 
-    public int sumCounts(int[] nums) {
-        /* 
-        case1
-        987654
-        543210 -> 654321
-        sum1 = 55
-        sum2 = sum1 + updateLen + 2 *(query) = 55 + 6 + 2 *(15) = 91 
-        */  
-        /* 
-        case2
-        98776654
-        54332210 -> 65443321
-        sum2 = sum1 + updateLen + 2 *(query) = sum1  + 8 + 2 *(20) 
-        */  
-        /* 
-        case3
-        98776657, 6th -> 7th 
-        5433,2210 -> 5433,3321
-        sum2 = sum1 + updateLen + 2 *(query) = sum1 + 4 + 2 *(5) 
-        */    
+    public int sumCounts(int[] nums) {   
         int n = nums.length;
         buildTree(nums.length - 1);
         
