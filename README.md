@@ -450,6 +450,7 @@
 | [0483-smallest-good-base](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0483-smallest-good-base) |
 | [0564-find-the-closest-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
+| [0650-2-keys-keyboard](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0796-reaching-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0796-reaching-points) |
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -560,6 +561,7 @@
 | [0546-remove-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0552-student-attendance-record-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0552-student-attendance-record-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
+| [0650-2-keys-keyboard](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
