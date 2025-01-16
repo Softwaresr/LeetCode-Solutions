@@ -294,6 +294,7 @@
 | [2292-counting-words-with-a-given-prefix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2549-next-greater-element-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2549-next-greater-element-iv) |
@@ -916,6 +917,7 @@
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [2509-minimize-xor](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
@@ -948,4 +950,8 @@
 |  |
 | ------- |
 | [2682-count-increasing-quadruplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2682-count-increasing-quadruplets) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
