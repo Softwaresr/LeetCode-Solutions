@@ -310,6 +310,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2703-handling-sum-queries-after-update](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
+| [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [2792-neighboring-bitwise-xor](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -436,6 +437,7 @@
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2701-subsequence-with-the-minimum-score) |
+| [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
@@ -490,6 +492,7 @@
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2689-rearranging-fruits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 ## Sorting
@@ -595,6 +598,7 @@
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2682-count-increasing-quadruplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2682-count-increasing-quadruplets) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
@@ -664,6 +668,7 @@
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 ## Stack
 |  |
@@ -907,6 +912,7 @@
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 ## Number Theory
 |  |
 | ------- |
