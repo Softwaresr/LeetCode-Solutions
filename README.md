@@ -316,6 +316,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2703-handling-sum-queries-after-update](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [2792-neighboring-bitwise-xor](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -683,6 +684,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 ## Stack
 |  |
@@ -777,6 +779,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2671-shortest-cycle-in-a-graph](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2671-shortest-cycle-in-a-graph) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Rolling Hash
 |  |
@@ -844,6 +847,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Graph
 |  |
@@ -940,6 +944,7 @@
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Number Theory
 |  |
