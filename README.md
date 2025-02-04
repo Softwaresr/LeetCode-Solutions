@@ -293,6 +293,7 @@
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2109-find-array-given-subset-sums](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2109-find-array-given-subset-sums) |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2145-grid-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2145-grid-game) |
