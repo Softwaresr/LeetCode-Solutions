@@ -285,6 +285,7 @@
 | [0952-word-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -549,6 +550,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0952-word-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -997,6 +999,7 @@
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
