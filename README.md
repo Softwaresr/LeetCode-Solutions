@@ -554,6 +554,7 @@
 | [1364-tuple-with-same-product](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -734,6 +735,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2549-next-greater-element-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2549-next-greater-element-iv) |
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
@@ -839,6 +841,7 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+| [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -887,6 +890,7 @@
 | [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 ## Data Stream
 |  |
 | ------- |
