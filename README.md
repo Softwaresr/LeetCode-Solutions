@@ -301,6 +301,7 @@
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
@@ -486,6 +487,7 @@
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2635-check-if-point-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2635-check-if-point-is-reachable) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
@@ -555,6 +557,7 @@
 | [1392-find-the-difference-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1502-construct-k-palindrome-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
@@ -1009,6 +1012,7 @@
 | [1364-tuple-with-same-product](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
+| [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Doubly-Linked List
