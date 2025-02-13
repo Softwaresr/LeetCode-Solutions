@@ -333,6 +333,7 @@
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -735,6 +736,7 @@
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
@@ -753,6 +755,7 @@
 | [2549-next-greater-element-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2549-next-greater-element-iv) |
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Merge Sort
 |  |
 | ------- |
