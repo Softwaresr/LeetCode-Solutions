@@ -33,7 +33,7 @@ class Solution {
     return gcdOfStrings(str2, mod(str1, str2));
   }
 
-  private String mod(String s1, final String s2) {
+  private String mod(String s1,  String s2) {
     while (s1.startsWith(s2))
       s1 = s1.substring(s2.length());
     return s1;
