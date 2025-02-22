@@ -1,39 +1,34 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
-  public TreeNode recoverFromPreorder(String traversal) {
-    return recoverFromPreorder(traversal, 0);
-  }
+    private String s;
+    private int idx, level;
+    
+    public TreeNode recoverFromPreorder(String traversal) {
+        this.s = traversal;
+        this.idx = 0;
+        this.level = 0;
+        TreeNode node = new TreeNode(-1);
+        this.helper(node, 0);
+        return node.left;
+    }
 
-  private int i = 0;
-
-  private TreeNode recoverFromPreorder(final String traversal, int depth) {
-    int nDashes = 0;
-    while (i + nDashes < traversal.length() && traversal.charAt(i + nDashes) == '-')
-      ++nDashes;
-    if (nDashes != depth)
-      return null;
-
-    i += depth;
-    final int start = i;
-    while (i < traversal.length() && Character.isDigit(traversal.charAt(i)))
-      ++i;
-
-    return new TreeNode(Integer.valueOf(traversal.substring(start, i)),
-                        recoverFromPreorder(traversal, depth + 1),
-                        recoverFromPreorder(traversal, depth + 1));
-  }
+    private void helper(TreeNode parent, int lvl) {
+        while (this.idx < this.s.length() && lvl == level) {
+            int num = 0;
+            while (this.idx < this.s.length() && Character.isDigit(this.s.charAt(this.idx))) {
+                num = num * 10 + (this.s.charAt(this.idx++) - '0');
+            }
+            TreeNode node = new TreeNode(num);
+            if (parent.left == null)
+                parent.left = node;
+            else
+                parent.right = node;
+            
+            this.level = 0;
+            while (this.idx < this.s.length() && this.s.charAt(this.idx) == '-') {
+                this.level++;
+                this.idx++;
+            }
+            this.helper(node, lvl + 1);
+        }
+    }
 }
