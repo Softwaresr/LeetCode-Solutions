@@ -293,6 +293,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
@@ -498,6 +499,7 @@
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
@@ -634,6 +636,7 @@
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -850,6 +853,7 @@
 | [0238-product-of-array-except-self](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
