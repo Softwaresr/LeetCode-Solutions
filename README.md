@@ -342,6 +342,7 @@
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3227-find-missing-and-repeated-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -523,6 +524,7 @@
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
 | ------- |
@@ -610,6 +612,7 @@
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -749,6 +752,7 @@
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
 | ------- |
