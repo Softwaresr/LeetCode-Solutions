@@ -348,6 +348,7 @@
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3483-alternating-groups-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Binary Search
 |  |
@@ -838,6 +839,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
+| [3483-alternating-groups-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Breadth-First Search
