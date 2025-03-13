@@ -351,6 +351,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -372,6 +373,7 @@
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3211-find-maximum-non-decreasing-array-length) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -901,6 +903,7 @@
 | [3203-palindrome-rearrangement-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
