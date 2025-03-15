@@ -490,6 +490,7 @@
 | [2701-subsequence-with-the-minimum-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3447-clear-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3447-clear-digits) |
