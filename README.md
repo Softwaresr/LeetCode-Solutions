@@ -361,6 +361,7 @@
 | [3483-alternating-groups-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3483-alternating-groups-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Binary Search
 |  |
 | ------- |
@@ -591,6 +592,7 @@
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3430-count-days-without-meetings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Hash Table
 |  |
 | ------- |
