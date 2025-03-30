@@ -426,6 +426,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [1894-merge-strings-alternately](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -473,6 +474,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
+| [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0952-word-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -561,6 +563,7 @@
 | [0011-container-with-most-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0334-increasing-triplet-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1252-break-a-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
@@ -621,6 +624,7 @@
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0952-word-subsets) |
