@@ -565,6 +565,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
@@ -1213,6 +1214,7 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2682-count-increasing-quadruplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2682-count-increasing-quadruplets) |
+| [2998-count-symmetric-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 ## Brainteaser
 |  |
 | ------- |
