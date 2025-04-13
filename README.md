@@ -554,6 +554,7 @@
 | [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2050-count-good-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -763,6 +764,7 @@
 | [0234-palindrome-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
