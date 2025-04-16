@@ -331,6 +331,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2601-number-of-great-partitions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2601-number-of-great-partitions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
 | [2648-number-of-ways-to-earn-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2648-number-of-ways-to-earn-points) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
@@ -671,6 +672,7 @@
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
 | [2596-add-edges-to-make-degrees-of-all-nodes-even](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2596-add-edges-to-make-degrees-of-all-nodes-even) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
@@ -921,6 +923,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
