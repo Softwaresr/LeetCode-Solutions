@@ -315,6 +315,7 @@
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2249-count-the-hidden-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
@@ -988,6 +989,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2145-grid-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2145-grid-game) |
+| [2249-count-the-hidden-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
 | [2682-count-increasing-quadruplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2691-count-vowel-strings-in-ranges) |
