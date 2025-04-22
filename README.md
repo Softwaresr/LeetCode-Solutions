@@ -571,6 +571,7 @@
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2491-smallest-even-multiple](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
@@ -749,6 +750,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2147-the-score-of-students-solving-math-expression](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2147-the-score-of-students-solving-math-expression) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2569-number-of-beautiful-partitions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2569-number-of-beautiful-partitions) |
 | [2577-count-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2577-count-palindromic-subsequences) |
@@ -1098,6 +1100,7 @@
 | [0458-poor-pigs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0458-poor-pigs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3548-find-the-count-of-good-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Trie
@@ -1181,6 +1184,7 @@
 | ------- |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2491-smallest-even-multiple](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2635-check-if-point-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2635-check-if-point-is-reachable) |
