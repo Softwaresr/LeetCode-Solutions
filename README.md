@@ -311,6 +311,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2048-build-array-from-permutation](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2107-find-unique-binary-string) |
 | [2109-find-array-given-subset-sums](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2109-find-array-given-subset-sums) |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
@@ -902,6 +903,7 @@
 | [0067-add-binary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2470-removing-stars-from-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
