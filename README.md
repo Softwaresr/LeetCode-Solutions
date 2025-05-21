@@ -248,6 +248,7 @@
 | [0063-unique-paths-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0066-plus-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -695,6 +696,7 @@
 | [0037-sudoku-solver](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
@@ -889,6 +891,7 @@
 | [0037-sudoku-solver](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
