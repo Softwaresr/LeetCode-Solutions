@@ -1055,6 +1055,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1141,6 +1142,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Graph
 |  |
 | ------- |
@@ -1228,6 +1230,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
 | ------- |
