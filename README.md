@@ -257,6 +257,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0135-candy](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -635,6 +636,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0135-candy](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
