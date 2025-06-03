@@ -1,41 +1,32 @@
 class Solution {
-    public int maxCandies(int[] status, int[] candies, int[][] keys, int[][] containedBoxes, int[] initialBoxes) {
-        boolean[] visited = new boolean[status.length];
-        HashSet<Integer> foundBoxes = new HashSet<>();
-        int totalCandy = 0;
+    public int maxCandies(int[] status,int[] candies,int[][] keys,int[][] containedBoxes,int[] initialBoxes) {
 
-        for (int box : initialBoxes) {
-            totalCandy += dfs(box, status, candies, keys, containedBoxes, foundBoxes, visited);
+        int count=0; // Total candies collected
+        boolean[] vis=new boolean[status.length]; // Track visited boxes
+        for(int v:initialBoxes){
+            dfs(v,status,keys,containedBoxes,vis);
         }
 
-        return totalCandy;
-    }
-
-    public int dfs(int box, int[] status, int[] candies, int[][] keys, int[][] containedBoxes,
-                   HashSet<Integer> foundBoxes, boolean[] visited) {
-        if (visited[box]) {
-            return 0;
-        }
-
-        if (status[box] == 0) {
-            foundBoxes.add(box);
-            return 0;
-        }
-
-        int totalCandies = candies[box];
-        visited[box] = true;
-
-        for (int contained : containedBoxes[box]) {
-            totalCandies += dfs(contained, status, candies, keys, containedBoxes, foundBoxes, visited);
-        }
-
-        for (int key : keys[box]) {
-            status[key] = 1;
-            if (foundBoxes.contains(key)) {
-                totalCandies += dfs(key, status, candies, keys, containedBoxes, foundBoxes, visited);
+        for(int i=0;i<candies.length;i++){
+            if(vis[i]&&status[i]==1){
+                count+=candies[i];
             }
         }
+        return count;
+    }
 
-        return totalCandies;
+    public void dfs(int v,int[] status,int[][] keys,int[][] containedBoxes,boolean[] vis){ 
+
+        vis[v]=true; // Mark the current box as visited
+        for(int vKey:keys[v]){
+            if(vKey==v) continue; // Skip self-key
+            status[vKey]=1; // Unlock the box
+        }
+
+        for(int vContained:containedBoxes[v]){
+            if(!vis[vContained]){
+                dfs(vContained,status,keys,containedBoxes,vis);
+            }
+        }
     }
 }
