@@ -1139,6 +1139,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
+| [0386-lexicographical-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
 | [0514-freedom-trail](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0514-freedom-trail) |
@@ -1218,6 +1219,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0386-lexicographical-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
 ## Memoization
 |  |
