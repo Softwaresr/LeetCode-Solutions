@@ -365,6 +365,7 @@
 | [2703-handling-sum-queries-after-update](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2703-handling-sum-queries-after-update) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
@@ -431,6 +432,7 @@
 | [2690-house-robber-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2701-subsequence-with-the-minimum-score) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3211-find-maximum-non-decreasing-array-length) |
@@ -664,6 +666,7 @@
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2689-rearranging-fruits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
