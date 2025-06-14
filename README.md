@@ -626,6 +626,7 @@
 | [2610-closest-prime-numbers-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2610-closest-prime-numbers-in-range) |
 | [2635-check-if-point-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2635-check-if-point-is-reachable) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
@@ -665,6 +666,7 @@
 | [2681-put-marbles-in-bags](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2687-lexicographically-smallest-beautiful-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2687-lexicographically-smallest-beautiful-string) |
 | [2689-rearranging-fruits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
