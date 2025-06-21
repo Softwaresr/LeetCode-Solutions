@@ -573,6 +573,7 @@
 | [3203-palindrome-rearrangement-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3447-clear-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -682,6 +683,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
@@ -716,6 +718,7 @@
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3321-type-of-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3430-count-days-without-meetings) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -786,6 +789,7 @@
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3548-find-the-count-of-good-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -1381,6 +1385,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
