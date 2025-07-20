@@ -1,61 +1,56 @@
-import java.util.*;
-
 class Solution {
     static class Node {
-        String name;
-        TreeMap<String, Node> children;
-        String signature;
-
-        public Node(String name) {
-            this.name = name;
-            this.children = new TreeMap<>();
-        }
+        Map<String, Node> children = new TreeMap<>();
+        boolean deleted = false;
     }
 
     public List<List<String>> deleteDuplicateFolder(List<List<String>> paths) {
-        Node root = new Node("");
+        Node root = new Node();
+
         for (List<String> path : paths) {
             Node curr = root;
-            for (String folder : path) {
-                curr.children.putIfAbsent(folder, new Node(folder));
-                curr = curr.children.get(folder);
+            for (String name : path) {
+                curr = curr.children.computeIfAbsent(name, k -> new Node());
             }
         }
 
-        Map<String, Integer> countMap = new HashMap<>();
-        dfs(root, countMap);
+        Map<String, List<Node>> map = new HashMap<>();
+        encode(root, map);
+
+        for (List<Node> group : map.values()) {
+            if (group.size() > 1) {
+                for (Node n : group) {
+                    n.deleted = true;
+                }
+            }
+        }
 
         List<List<String>> result = new ArrayList<>();
-        List<String> currentPath = new ArrayList<>();
-        for (Node child : root.children.values()) {
-            dfs2(child, currentPath, result, countMap);
-        }
+        collect(root, new ArrayList<>(), result);
         return result;
     }
 
-    private void dfs(Node node, Map<String, Integer> countMap) {
-        if (node.children.isEmpty()) {
-            node.signature = "";
-            return;
+    private String encode(Node node, Map<String, List<Node>> map) {
+        if (node.children.isEmpty()) return "()";
+
+        List<String> parts = new ArrayList<>();
+        for (Map.Entry<String, Node> entry : node.children.entrySet()) {
+            String sub = encode(entry.getValue(), map);
+            parts.add(entry.getKey() + sub);
         }
-        StringBuilder sb = new StringBuilder();
-        for (Node child : node.children.values()) {
-            dfs(child, countMap);
-            sb.append(child.name).append('(').append(child.signature).append(')');
-        }
-        node.signature = sb.toString();
-        countMap.put(node.signature, countMap.getOrDefault(node.signature, 0) + 1);
+        Collections.sort(parts);
+        String sign = "(" + String.join("", parts) + ")";
+        map.computeIfAbsent(sign, k -> new ArrayList<>()).add(node);
+        return sign;
     }
 
-    private void dfs2(Node node, List<String> currentPath, List<List<String>> result, Map<String, Integer> countMap) {
-        if (!node.children.isEmpty() && countMap.getOrDefault(node.signature, 0) >= 2) {
-            return;
+    private void collect(Node node, List<String> path, List<List<String>> res) {
+        for (Map.Entry<String, Node> entry : node.children.entrySet()) {
+            if (entry.getValue().deleted) continue;
+            path.add(entry.getKey());
+            res.add(new ArrayList<>(path));
+            collect(entry.getValue(), path, res);
+            path.remove(path.size() - 1);
         }
-        currentPath.add(node.name);
-        result.add(new ArrayList<>(currentPath));
-        for (Node child : node.children.values()) {
-            dfs2(child, currentPath, result, countMap);
-        }
-        currentPath.remove(currentPath.size() - 1);
     }
 }
