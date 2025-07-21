@@ -556,6 +556,7 @@
 | [1160-letter-tile-possibilities](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1252-break-a-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
