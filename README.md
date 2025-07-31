@@ -294,6 +294,7 @@
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -896,6 +897,7 @@
 | [0868-push-dominoes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1427,6 +1429,7 @@
 | [0136-single-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
