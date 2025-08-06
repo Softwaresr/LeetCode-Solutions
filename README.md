@@ -434,6 +434,7 @@
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -469,6 +470,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1240,6 +1242,7 @@
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1252,6 +1255,7 @@
 | [2280-count-good-triplets-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
+| [3791-fruits-into-baskets-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Depth-First Search
 |  |
 | ------- |
