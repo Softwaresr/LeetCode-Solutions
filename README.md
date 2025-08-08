@@ -654,6 +654,7 @@
 | [0650-2-keys-keyboard](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0796-reaching-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -903,6 +904,7 @@
 | [0650-2-keys-keyboard](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
+| [0826-soup-servings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -1550,4 +1552,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
