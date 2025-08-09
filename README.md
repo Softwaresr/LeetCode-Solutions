@@ -642,6 +642,7 @@
 | [0066-plus-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0224-basic-calculator](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -959,6 +960,7 @@
 | [0143-reorder-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -1448,6 +1450,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
