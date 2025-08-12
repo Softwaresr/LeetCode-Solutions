@@ -938,6 +938,7 @@
 | [2697-minimum-number-of-visited-cells-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2697-minimum-number-of-visited-cells-in-a-grid) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
