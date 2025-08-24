@@ -315,6 +315,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1524-string-matching-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -928,6 +929,7 @@
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
@@ -1169,6 +1171,7 @@
 | [0940-fruit-into-baskets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
