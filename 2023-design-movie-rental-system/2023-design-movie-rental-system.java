@@ -87,11 +87,3 @@ class MovieRentingSystem {
     }
 }
 
-/**
- * Your MovieRentingSystem object will be instantiated and called as such:
- * MovieRentingSystem obj = new MovieRentingSystem(n, entries);
- * List<Integer> param_1 = obj.search(movie);
- * obj.rent(shop,movie);
- * obj.drop(shop,movie);
- * List<List<Integer>> param_4 = obj.report();
- */
