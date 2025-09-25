@@ -256,6 +256,7 @@
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0135-candy) |
@@ -940,6 +941,7 @@
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0097-interleaving-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0097-interleaving-string) |
+| [0120-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
