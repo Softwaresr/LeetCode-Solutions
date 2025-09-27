@@ -293,6 +293,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0797-rabbits-in-forest](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -690,6 +691,7 @@
 | [0796-reaching-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0796-reaching-points) |
 | [0797-rabbits-in-forest](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1466,6 +1468,7 @@
 |  |
 | ------- |
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
+| [0830-largest-triangle-area](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Tree
 |  |
