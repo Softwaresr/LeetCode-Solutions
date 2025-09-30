@@ -368,6 +368,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2429-design-a-food-rating-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -716,6 +717,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -1167,6 +1169,7 @@
 | [2048-build-array-from-permutation](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -1445,6 +1448,7 @@
 | [0458-poor-pigs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0458-poor-pigs) |
 | [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
