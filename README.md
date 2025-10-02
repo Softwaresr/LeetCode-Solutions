@@ -261,6 +261,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -579,6 +580,7 @@
 | [0125-valid-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
@@ -861,6 +863,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
@@ -959,6 +962,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
@@ -1467,6 +1471,7 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
@@ -1475,6 +1480,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0488-zuma-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0488-zuma-game) |
 | [0546-remove-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0546-remove-boxes) |
