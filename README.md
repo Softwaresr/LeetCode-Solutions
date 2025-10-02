@@ -266,6 +266,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0212-word-search-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0238-product-of-array-except-self](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -581,6 +582,7 @@
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0166-fraction-to-recurring-decimal) |
+| [0212-word-search-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0273-integer-to-english-words) |
@@ -1061,6 +1063,7 @@
 | [0051-n-queens](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0052-n-queens-ii) |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
 | [1160-letter-tile-possibilities](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1106,6 +1109,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
@@ -1464,6 +1468,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
