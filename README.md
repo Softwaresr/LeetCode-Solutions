@@ -398,6 +398,7 @@
 | [2652-count-number-of-possible-root-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2652-count-number-of-possible-root-nodes) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2673-maximize-win-from-two-segments](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2673-maximize-win-from-two-segments) |
 | [2681-put-marbles-in-bags](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2682-count-increasing-quadruplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2682-count-increasing-quadruplets) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
@@ -492,6 +493,7 @@
 | [2563-split-message-based-on-limit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2563-split-message-based-on-limit) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2673-maximize-win-from-two-segments](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2673-maximize-win-from-two-segments) |
 | [2690-house-robber-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2701-subsequence-with-the-minimum-score) |
@@ -1269,6 +1271,7 @@
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2673-maximize-win-from-two-segments](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2673-maximize-win-from-two-segments) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
