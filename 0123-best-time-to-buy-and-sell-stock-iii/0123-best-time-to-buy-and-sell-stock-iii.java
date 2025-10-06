@@ -1,8 +1,29 @@
 class Solution {
- static int counter = 0;
-    static int[] data = {6, 4, 0, 0, 1, 0, 0, 3, 3, 3, 2, 1, 0, 3, 0, 2, 7, 7, 11, 2, 3, 19, 6, 1, 13, 17, 12, 6, 6, 8, 6, 8, 6, 6, 6, 8, 5, 8, 5, 6, 6, 6, 5, 4, 3, 3, 3, 3, 2, 1, 0, 10, 10, 13, 10, 13, 10, 12, 12, 15, 10, 15, 10, 15, 15, 15, 13, 12, 10, 15, 15, 15, 13, 12, 10, 10, 10, 13, 10, 13, 10, 12, 12, 15, 9, 15, 9, 15, 15, 15, 12, 12, 9, 15, 15, 15, 12, 12, 9, 10, 10, 15, 10, 15, 10, 10, 10, 15, 9, 15, 9, 13, 13, 13, 12, 8, 7, 13, 13, 13, 12, 8, 7, 10, 10, 12, 10, 12, 10, 10, 10, 12, 9, 12, 9, 10, 10, 10, 9, 8, 7, 7, 7, 7, 6, 5, 4, 6, 6, 8, 6, 8, 6, 6, 6, 8, 5, 8, 5, 6, 6, 6, 5, 4, 3, 3, 3, 3, 2, 1, 0, 7, 10, 6, 14, 11, 7, 15, 12, 11, 9, 14, 12, 15, 16, 10, 7, 14, 7, 14, 8, 14, 16, 5, 10, 13, 14, 15, 11, 11, 6, 19965, 4, 19994, 39994, 59994, 79993, 99995, 119994, 139994, 159996, 179994, 199992, 99999};        
-    public static int maxProfit(int[] prices)
-    {
-        return data[counter++];
+    public int maxProfit(int[] prices) {
+        int n = prices.length;
+        if(n <= 1) return 0;
+
+        int[] first = new int[n];
+        int minPrice = prices[0];
+        for(int i = 1; i<n; i++){
+            minPrice = Math.min(minPrice, prices[i]);
+            first[i] = Math.max(first[i-1], prices[i] - minPrice );
+
+        }
+        int[] second = new int[n];
+        int maxPrice  = prices[n-1];
+        for(int i = n-2; i >= 0; i--){
+            maxPrice = Math.max(maxPrice, prices[i]);
+            second[i] = Math.max(second[i+1], maxPrice - prices[i]);
+
+        }
+
+        int maxProfit = 0;
+        for(int i = 0; i<n; i++){
+            maxProfit = Math.max(maxProfit, first[i] + second[i]);
+        }
+
+        return maxProfit;
+        
     }
 }
