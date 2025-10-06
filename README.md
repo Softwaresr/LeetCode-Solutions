@@ -296,6 +296,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
+| [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -480,6 +481,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0483-smallest-good-base](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0483-smallest-good-base) |
+| [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -1130,6 +1132,7 @@
 | [0498-diagonal-traverse](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
+| [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -1214,6 +1217,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0407-trapping-rain-water-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0407-trapping-rain-water-ii) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1917-maximum-average-pass-ratio](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -1298,6 +1302,7 @@
 | [0542-01-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -1410,6 +1415,7 @@
 | [0514-freedom-trail](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0514-freedom-trail) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -1570,6 +1576,7 @@
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0684-redundant-connection) |
+| [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
