@@ -377,6 +377,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2344-escape-the-spreading-fire](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -493,6 +494,7 @@
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2344-escape-the-spreading-fire](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2344-escape-the-spreading-fire) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2549-next-greater-element-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2549-next-greater-element-iv) |
 | [2563-split-message-based-on-limit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2563-split-message-based-on-limit) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -556,6 +558,7 @@
 | [1894-merge-strings-alternately](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -840,6 +843,7 @@
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
