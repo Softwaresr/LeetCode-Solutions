@@ -668,6 +668,7 @@
 | [3194-find-words-containing-character](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3396-valid-word](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3396-valid-word) |
@@ -1050,6 +1051,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3184-maximum-balanced-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3184-maximum-balanced-subsequence-sum) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3211-find-maximum-non-decreasing-array-length) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1642,6 +1644,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2792-neighboring-bitwise-xor) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1754,5 +1757,6 @@
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
