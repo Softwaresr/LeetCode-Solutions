@@ -484,6 +484,7 @@
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3797-design-spreadsheet](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -997,6 +998,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3797-design-spreadsheet](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1295,6 +1297,7 @@
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1386,6 +1389,7 @@
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1462,6 +1466,7 @@
 | [3678-design-task-manager](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1499,6 +1504,7 @@
 | [3105-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-minimum-edge-reversals-so-every-node-is-reachable) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
@@ -1523,6 +1529,7 @@
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -1657,6 +1664,7 @@
 | [2793-count-the-number-of-complete-components](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Number Theory
 |  |
 | ------- |
