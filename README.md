@@ -743,6 +743,7 @@
 | [0900-reordered-power-of-2](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -940,6 +941,7 @@
 | [0940-fruit-into-baskets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0952-word-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1064-smallest-integer-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
