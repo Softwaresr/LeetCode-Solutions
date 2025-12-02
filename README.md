@@ -491,6 +491,7 @@
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3886-count-number-of-trapezoids-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -807,6 +808,7 @@
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3830-find-closest-person) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3886-count-number-of-trapezoids-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1013,6 +1015,7 @@
 | [3797-design-spreadsheet](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3886-count-number-of-trapezoids-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1617,6 +1620,7 @@
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3886-count-number-of-trapezoids-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 ## Tree
 |  |
 | ------- |
