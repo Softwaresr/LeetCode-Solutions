@@ -1185,6 +1185,7 @@
 | [0061-rotate-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
@@ -1387,6 +1388,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0127-word-ladder](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0322-coin-change) |
@@ -1511,6 +1513,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0386-lexicographical-numbers) |
@@ -1646,6 +1649,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
@@ -1668,6 +1672,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0404-sum-of-left-leaves) |
 | [0508-most-frequent-subtree-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0508-most-frequent-subtree-sum) |
