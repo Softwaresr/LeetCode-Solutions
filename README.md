@@ -723,6 +723,7 @@
 | [0013-roman-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -1130,6 +1131,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
