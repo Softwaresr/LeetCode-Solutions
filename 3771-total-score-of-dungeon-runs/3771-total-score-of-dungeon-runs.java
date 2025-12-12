@@ -1,32 +1,60 @@
+import java.util.Arrays;
+
 class Solution {
-    public long totalScore(int hp, int[] damage, int[] req) {
-        int n = damage.length;
-        long[] pre = new long[n + 1];
+    
+    /**
+     * Finds the smallest index in the array `P` (up to `endIndex`) 
+     * where the value is greater than or equal to `target`.
+     */
+    private int lowerBound(long[] P, int endIndex, long target) {
+        int low = 0;
+        int high = endIndex;
+        int ans = endIndex + 1;
 
-        for (int i = 1; i <= n; i++) pre[i] = pre[i - 1] + damage[i - 1];
-
-        long ans = 0;
-
-        for (int i = 1; i <= n; i++) {
-            long need = pre[i] - (hp - req[i - 1]);
-
-            int idx = lowerBound(pre, need);  // first pos where pre[pos] >= need
-
-            if (idx <= i - 1) {
-                ans += (i - idx);  // count of valid starts j
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (P[mid] >= target) {
+                ans = mid;
+                high = mid - 1;
+            } else {
+                low = mid + 1;
             }
         }
-
         return ans;
     }
 
-    private int lowerBound(long[] arr, long target) {
-        int l = 0, r = arr.length - 1;
-        while (l < r) {
-            int mid = (l + r) >>> 1;
-            if (arr[mid] >= target) r = mid;
-            else l = mid + 1;
+    // RENAMED METHOD: Changed from sumOfScores to totalScore
+    public long totalScore(int hp, int[] damage, int[] requirement) {
+        int n = damage.length;
+        
+        // --- 1. Pre-calculate Prefix Sum of Damage ---
+        long[] P = new long[n + 1];
+        for (int i = 0; i < n; i++) {
+            P[i + 1] = P[i] + damage[i];
         }
-        return l;
+
+        long totalScore = 0;
+        
+        // --- 2. Iterate through each room i ---
+        for (int i = 1; i <= n; i++) {
+            // i is the 1-indexed room number
+            
+            // C_i = P[i] - hp + requirement[i-1]
+            long requiredPrefixSum = P[i] - hp + requirement[i - 1];
+
+            // Search space for j-1 is P[0] to P[i-1].
+            int searchEndIndex = i - 1; 
+
+            // Find smallest index l in [0, i-1] such that P[l] >= requiredPrefixSum
+            int l = lowerBound(P, searchEndIndex, requiredPrefixSum);
+            
+            if (l <= searchEndIndex) {
+                // Count = i - l
+                long count_i = (long)i - l;
+                totalScore += count_i;
+            }
+        }
+
+        return totalScore;
     }
 }
