@@ -486,6 +486,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3771-total-score-of-dungeon-runs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -537,6 +538,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3771-total-score-of-dungeon-runs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3790-fruits-into-baskets-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
@@ -1470,6 +1472,7 @@
 | [3643-zero-array-transformation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3771-total-score-of-dungeon-runs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3771-total-score-of-dungeon-runs) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Binary Indexed Tree
