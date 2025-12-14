@@ -1,64 +1,51 @@
 class Solution {
     public List<String> fullJustify(String[] words, int maxWidth) {
         List<String> result = new ArrayList<>();
-        List<String> currentLine = new ArrayList<>();
-        int numOfLetters = 0;
+        int index = 0;
+        int n = words.length;
 
-        for (String word : words) {
-            // Check if adding the next word would exceed maxWidth
-            if (numOfLetters + word.length() + currentLine.size() > maxWidth) {
-                result.add(justify(currentLine, numOfLetters, maxWidth));
-                currentLine = new ArrayList<>();
-                numOfLetters = 0;
+        while(index < n){
+            int start = index;
+            int wordLengthSum = words[index].length();
+            index++;
+
+            while(index < n && wordLengthSum + 1 + words[index].length() <= maxWidth){
+                wordLengthSum += 1 + words[index].length();
+                index++;
+
             }
-            // Add the current word to the line
-            currentLine.add(word);
-            numOfLetters += word.length();
-        }
+            int wordCount = index - start;
+            int gapCount = wordCount - 1;
+            int totalSpaces = maxWidth - (wordLengthSum - gapCount);
 
-        // Last line - left-justified
-        StringBuilder lastLine = new StringBuilder();
-        for (int i = 0; i < currentLine.size(); i++) {
-            if (i > 0) {
-                lastLine.append(' ');
+            StringBuilder line = new StringBuilder();
+
+            if(index == n || gapCount == 0){
+                for(int k = start; k < index; k++){
+                    if(k > start) line.append(" ");
+                    line.append(words[k]);
+
+                }
+                while(line.length() < maxWidth) line.append(" ");
+
             }
-            lastLine.append(currentLine.get(i));
-        }
-        // Pad spaces to the end of the last line
-        while (lastLine.length() < maxWidth) {
-            lastLine.append(' ');
-        }
-        result.add(lastLine.toString());
+            else{
+                int evenSpaces = totalSpaces / gapCount;
+                int extraSpaces = totalSpaces % gapCount;
 
-        return result;
-    }
+                for(int k = start; k < index; k++){
+                    line.append(words[k]);
+                    if(k < index - 1){
+                        int spacesHere = evenSpaces + (extraSpaces-- > 0 ? 1 : 0);
+                        line.append(" ".repeat(spacesHere));
 
-    private String justify(List<String> words, int numOfLetters, int maxWidth) {
-        StringBuilder line = new StringBuilder();
-        int totalSpaces = maxWidth - numOfLetters;
-        int numGaps = words.size() - 1;
-
-        if (numGaps == 0) {
-            // Single word in line, just add it followed by spaces
-            line.append(words.get(0));
-            while (line.length() < maxWidth) {
-                line.append(' ');
-            }
-        } else {
-            int spacesBetweenGaps = totalSpaces / numGaps;
-            int extraSpaces = totalSpaces % numGaps;
-
-            for (int i = 0; i < words.size(); i++) {
-                if (i > 0) {
-                    int spaceCount = spacesBetweenGaps + (i <= extraSpaces ? 1 : 0);
-                    for (int j = 0; j < spaceCount; j++) {
-                        line.append(' ');
                     }
                 }
-                line.append(words.get(i));
             }
-        }
+            result.add(line.toString());
 
-        return line.toString();
+        }
+        return result;
+        
     }
 }
