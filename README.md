@@ -298,6 +298,7 @@
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0803-bricks-falling-when-hit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0811-subdomain-visit-count](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
 | [0830-largest-triangle-area](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
@@ -1233,6 +1234,7 @@
 | [0542-01-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0741-cherry-pickup](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0741-cherry-pickup) |
 | [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0803-bricks-falling-when-hit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
@@ -1723,6 +1725,7 @@
 | [0684-redundant-connection](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0801-is-graph-bipartite) |
+| [0803-bricks-falling-when-hit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
