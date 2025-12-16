@@ -1,79 +1,45 @@
 import java.util.*;
 
 class Solution {
-    int n;
     List<Integer>[] g;
-    int[] w;
-    int[] down;
-    int[] up;
+    int[] val, down, ans;
 
     public int[] maxSubgraphScore(int n, int[][] edges, int[] good) {
-        this.n = n;
         g = new ArrayList[n];
         for (int i = 0; i < n; i++) g[i] = new ArrayList<>();
         for (int[] e : edges) {
-            int a = e[0], b = e[1];
-            g[a].add(b);
-            g[b].add(a);
+            g[e[0]].add(e[1]);
+            g[e[1]].add(e[0]);
         }
 
-        // convert good[] -> weight: +1 for good, -1 for bad
-        w = new int[n];
-        for (int i = 0; i < n; i++) {
-            w[i] = (good[i] == 1 ? 1 : -1);
-        }
+        val = new int[n];
+        for (int i = 0; i < n; i++) val[i] = good[i] == 1 ? 1 : -1;
 
         down = new int[n];
-        up = new int[n];
+        ans = new int[n];
 
-        // root the tree at 0 (any node works)
-        dfsDown(0, -1);
-        dfsUp(0, -1);
+        dfs1(0, -1);
+        dfs2(0, -1, 0);
 
-        int[] ans = new int[n];
-        for (int i = 0; i < n; i++) {
-            ans[i] = down[i] + up[i];
-        }
         return ans;
     }
 
-    // First DFS: compute down[u]
-    private void dfsDown(int u, int parent) {
-        int sum = w[u];
+    void dfs1(int u, int p) {
+        down[u] = val[u];
         for (int v : g[u]) {
-            if (v == parent) continue;
-            dfsDown(v, u);
-            if (down[v] > 0) {
-                sum += down[v];
-            }
+            if (v == p) continue;
+            dfs1(v, u);
+            down[u] += Math.max(0, down[v]);
         }
-        down[u] = sum;
     }
 
-    // Second DFS: compute up[v] for children using up[u] and siblings
-    private void dfsUp(int u, int parent) {
-        // precompute total positive contribution from all children of u
-        int totalPosChildren = 0;
-        for (int v : g[u]) {
-            if (v == parent) continue;
-            if (down[v] > 0) totalPosChildren += down[v];
-        }
+    void dfs2(int u, int p, int up) {
+        ans[u] = down[u] + Math.max(0, up);
 
         for (int v : g[u]) {
-            if (v == parent) continue;
-            // remove v's contribution from total children sum for u
-            int withoutV = totalPosChildren;
-            if (down[v] > 0) withoutV -= down[v];
-
-            // parent-side contribution as if u is the root of that side
-            int candidate = w[u];
-            candidate += up[u];       // contribution from above u
-            candidate += withoutV;    // positive siblings of v
-
-            // only keep positive contributions; otherwise 0
-            up[v] = Math.max(0, candidate);
-
-            dfsUp(v, u);
+            if (v == p) continue;
+            int nextUp = ans[u] - Math.max(0, down[v]);
+            dfs2(v, u, nextUp);
         }
     }
 }
