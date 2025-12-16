@@ -494,6 +494,7 @@
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3771-total-score-of-dungeon-runs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3771-total-score-of-dungeon-runs) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3790-fruits-into-baskets-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -1147,6 +1148,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Recursion
 |  |
@@ -1578,6 +1580,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
@@ -1699,6 +1702,7 @@
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3772-maximum-subgraph-score-in-a-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
