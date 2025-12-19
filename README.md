@@ -907,6 +907,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [2092-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1449,6 +1450,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [2092-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2344-escape-the-spreading-fire](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -1572,6 +1574,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
+| [2092-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -1599,6 +1602,7 @@
 | [1558-course-schedule-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2092-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
@@ -1746,6 +1750,7 @@
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [2092-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
 | [2213-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2213-find-all-people-with-secret) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
