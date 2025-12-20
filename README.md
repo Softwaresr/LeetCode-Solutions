@@ -340,6 +340,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
+| [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1813-maximum-erasure-value](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
@@ -597,6 +598,7 @@
 | [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1894-merge-strings-alternately](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -910,6 +912,7 @@
 | [0900-reordered-power-of-2](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2092-find-all-people-with-secret](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2092-find-all-people-with-secret) |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
@@ -1115,6 +1118,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1761-count-sorted-vowel-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1761-count-sorted-vowel-strings) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -1791,6 +1795,7 @@
 | [0342-power-of-four](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
+| [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -1923,6 +1928,7 @@
 ## Bitmask
 |  |
 | ------- |
+| [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
