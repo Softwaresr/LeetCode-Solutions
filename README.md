@@ -375,6 +375,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2249-count-the-hidden-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -797,6 +798,7 @@
 | [2202-sum-of-k-mirror-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2235-add-two-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2383-add-two-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2383-add-two-integers) |
@@ -1013,6 +1015,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
@@ -1692,6 +1695,7 @@
 | ------- |
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
@@ -1882,6 +1886,7 @@
 | [2174-next-greater-numerically-balanced-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2682-count-increasing-quadruplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2682-count-increasing-quadruplets) |
 | [2998-count-symmetric-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
