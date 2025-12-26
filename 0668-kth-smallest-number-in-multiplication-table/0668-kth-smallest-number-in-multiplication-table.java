@@ -1,29 +1,16 @@
 class Solution {
     public int findKthNumber(int m, int n, int k) {
-        int low = 1;
-        int high = m * n;
-        while(low < high){
-            int mid = low + (high - low) / 2;
-            if(countLessEqual(m, n, mid) < k){
-                low = mid + 1;
-
-            }
-            else{
-                high = mid;
-
-            }
+        int lo=0, hi=m*n;
+        while (lo < hi) {
+            int mid=(lo+hi)/2, count=0;
+            // check how many numbers are smaller than mid
+            for (int i=1; i<=m; i++)
+                count += n < mid/i ? n : mid/i;
+            if (count >= k)  // target <= mid
+                hi = mid;
+            else  // target > mid
+                lo = mid+1;
         }
-        return low;
-
-
-        
-    }
-    private int countLessEqual(int m, int n, int x){
-        int count = 0;
-        for(int i = 1; i <= m; i++){
-            count += Math.min(x / i, n);
-
-        }
-        return count;
+        return lo;
     }
 }
