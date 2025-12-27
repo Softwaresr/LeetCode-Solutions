@@ -391,6 +391,7 @@
 | [2344-escape-the-spreading-fire](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2344-escape-the-spreading-fire) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -933,6 +934,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2402-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
@@ -1027,6 +1029,7 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2402-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -1341,6 +1344,7 @@
 | [2265-partition-array-according-to-given-pivot](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2470-removing-stars-from-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 | [2479-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -1374,6 +1378,7 @@
 | [2023-design-movie-rental-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2402-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [2462-find-the-k-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2462-find-the-k-sum-of-an-array) |
