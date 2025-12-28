@@ -821,6 +821,7 @@
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2928-distribute-candies-among-children-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [2998-count-symmetric-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -1680,6 +1681,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2928-distribute-candies-among-children-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -1908,6 +1910,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2682-count-increasing-quadruplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2682-count-increasing-quadruplets) |
+| [2928-distribute-candies-among-children-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
 | [2998-count-symmetric-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
