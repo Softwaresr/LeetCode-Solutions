@@ -363,6 +363,7 @@
 | [2109-find-array-given-subset-sums](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2109-find-array-given-subset-sums) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2125-gcd-sort-of-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2125-gcd-sort-of-an-array) |
+| [2132-stamping-the-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2132-stamping-the-grid) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2145-grid-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2145-grid-game) |
@@ -879,6 +880,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2132-stamping-the-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2132-stamping-the-grid) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -1286,6 +1288,7 @@
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1876-map-of-highest-peak](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
+| [2132-stamping-the-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2132-stamping-the-grid) |
 | [2145-grid-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -1518,6 +1521,7 @@
 | [1477-product-of-the-last-k-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2132-stamping-the-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2132-stamping-the-grid) |
 | [2145-grid-game](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2249-count-the-hidden-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-the-hidden-sequences) |
