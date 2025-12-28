@@ -318,6 +318,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1146-snapshot-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -532,6 +533,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1146-snapshot-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -1004,6 +1006,7 @@
 | [0952-word-subsets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1006-vowel-spellchecker) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
+| [1146-snapshot-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1160-letter-tile-possibilities](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -1659,6 +1662,7 @@
 | [0146-lru-cache](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1146-snapshot-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
