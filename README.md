@@ -665,6 +665,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
+| [0756-pyramid-transition-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0811-subdomain-visit-count](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
 | [0868-push-dominoes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0868-push-dominoes) |
@@ -996,6 +997,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0756-pyramid-transition-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0811-subdomain-visit-count](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
@@ -1224,6 +1226,7 @@
 | [0140-word-break-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0282-expression-add-operators) |
+| [0756-pyramid-transition-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [1160-letter-tile-possibilities](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -1827,6 +1830,7 @@
 | [0268-missing-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
