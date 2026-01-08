@@ -333,6 +333,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -1148,6 +1149,7 @@
 | [1170-shortest-common-supersequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
+| [1458-max-dot-product-of-two-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
