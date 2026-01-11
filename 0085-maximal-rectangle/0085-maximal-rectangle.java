@@ -1,62 +1,55 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        if (matrix == null || matrix.length == 0 || matrix[0].length == 0){
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0)
             return 0;
-        }
-        int m = matrix.length;
-        int n = matrix[0].length;
 
-        int[] heights = new int[n];
-        int[] leftBoundaries = new int[n];
-        int[] rightBoundaries = new int[n];
-        Arrays.fill(rightBoundaries, n);
+        int M = matrix.length;
+        int N = matrix[0].length;
 
-        int maxRectangle = 0;
+        int[][] mat = new int[M][N];
 
-        for (int i = 0; i < m; i++) {
-            int left = 0;
-            int right = n;
-
-            updateHeightsAndLeftBoundaries(matrix[i], heights, leftBoundaries, left);
-
-            updateRightBoundaries(matrix[i], rightBoundaries, right);
-
-            maxRectangle = calculateMaxRectangle(heights, leftBoundaries, rightBoundaries, maxRectangle);
-        }
-
-        return maxRectangle;
-    }
-
-    private void updateHeightsAndLeftBoundaries(char[] row, int[] heights, int[] leftBoundaries, int left) {
-        for (int j = 0; j < heights.length; j++) {
-            if (row[j] == '1') {
-                heights[j]++;
-                leftBoundaries[j] = Math.max(leftBoundaries[j], left);
-            } else {
-                heights[j] = 0;
-                leftBoundaries[j] = 0;
-                left = j + 1;
+        // convert char to int
+        for (int i = 0; i < M; i++) {
+            for (int j = 0; j < N; j++) {
+                mat[i][j] = matrix[i][j] - '0';
             }
         }
-    }
 
-    private void updateRightBoundaries(char[] row, int[] rightBoundaries, int right) {
-        for (int j = rightBoundaries.length - 1; j >= 0; j--) {
-            if (row[j] == '1') {
-                rightBoundaries[j] = Math.min(rightBoundaries[j], right);
-            } else {
-                rightBoundaries[j] = right;
-                right = j;
+        // row-wise prefix widths
+        for (int i = 0; i < M; i++) {
+            for (int j = 1; j < N; j++) {
+                if (mat[i][j] == 1) {
+                    mat[i][j] += mat[i][j - 1];
+                }
             }
         }
-    }
 
-    private int calculateMaxRectangle(int[] heights, int[] leftBoundaries, int[] rightBoundaries, int maxRectangle) {
-        for (int j = 0; j < heights.length; j++) {
-            int width = rightBoundaries[j] - leftBoundaries[j];
-            int area = heights[j] * width;
-            maxRectangle = Math.max(maxRectangle, area);
+        int Ans = 0;
+
+        // fix each column
+        for (int j = 0; j < N; j++) {
+            for (int i = 0; i < M; i++) {
+                int width = mat[i][j];
+                if (width == 0) continue;
+
+                // expand downward
+                int currWidth = width;
+                for (int k = i; k < M && mat[k][j] > 0; k++) {
+                    currWidth = Math.min(currWidth, mat[k][j]);
+                    int height = k - i + 1;
+                    Ans = Math.max(Ans, currWidth * height);
+                }
+
+                // expand upward
+                currWidth = width;
+                for (int k = i; k >= 0 && mat[k][j] > 0; k--) {
+                    currWidth = Math.min(currWidth, mat[k][j]);
+                    int height = i - k + 1;
+                    Ans = Math.max(Ans, currWidth * height);
+                }
+            }
         }
-        return maxRectangle;
+
+        return Ans;
     }
 }
