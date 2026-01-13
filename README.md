@@ -321,6 +321,7 @@
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1146-snapshot-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -791,6 +792,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1064-smallest-integer-divisible-by-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1064-smallest-integer-divisible-by-k) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -1746,6 +1748,7 @@
 | ------- |
 | [0587-erect-the-fence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
