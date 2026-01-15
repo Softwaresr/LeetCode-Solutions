@@ -448,6 +448,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2915-count-of-interesting-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -963,6 +964,7 @@
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [2887-sort-vowels-in-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
