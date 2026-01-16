@@ -449,6 +449,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2915-count-of-interesting-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1073,6 +1074,7 @@
 | [2888-minimum-index-of-a-valid-split](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2915-count-of-interesting-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3203-palindrome-rearrangement-queries) |
@@ -1951,6 +1953,7 @@
 | [2249-count-lattice-points-inside-a-circle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2249-count-lattice-points-inside-a-circle) |
 | [2682-count-increasing-quadruplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2682-count-increasing-quadruplets) |
 | [2928-distribute-candies-among-children-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
+| [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
