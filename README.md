@@ -322,6 +322,7 @@
 | [1146-snapshot-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-snapshot-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1293-three-consecutive-odds](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -542,6 +543,7 @@
 | [0794-swim-in-rising-water](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-snapshot-array) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
@@ -1303,6 +1305,7 @@
 | [0803-bricks-falling-when-hit](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0803-bricks-falling-when-hit) |
 | [0854-making-a-large-island](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0854-making-a-large-island) |
 | [0945-snakes-and-ladders](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0945-snakes-and-ladders) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1542,6 +1545,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1833-find-the-highest-altitude) |
