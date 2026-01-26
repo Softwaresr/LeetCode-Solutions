@@ -320,6 +320,7 @@
 | [1071-binary-prefix-divisible-by-5](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1146-snapshot-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1146-snapshot-array) |
+| [1200-minimum-absolute-difference](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -951,6 +952,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1200-minimum-absolute-difference](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
