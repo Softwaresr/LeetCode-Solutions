@@ -1449,6 +1449,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 | [3678-design-task-manager](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3678-design-task-manager) |
 | [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
@@ -2006,6 +2007,7 @@
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Topological Sort
 |  |
 | ------- |
@@ -2033,4 +2035,8 @@
 | [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
