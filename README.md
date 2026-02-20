@@ -601,6 +601,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0761-special-binary-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [2109-find-array-given-subset-sums](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2109-find-array-given-subset-sums) |
@@ -698,6 +699,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0756-pyramid-transition-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0811-subdomain-visit-count](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0811-subdomain-visit-count) |
 | [0868-push-dominoes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0868-push-dominoes) |
@@ -964,6 +966,7 @@
 | [0368-largest-divisible-subset](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
 | [0594-longest-harmonious-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0761-special-binary-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [0900-reordered-power-of-2](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
