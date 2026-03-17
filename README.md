@@ -350,6 +350,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1656-count-good-triplets) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1813-maximum-erasure-value](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -926,6 +927,7 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1612-avoid-flood-in-the-city) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -983,6 +985,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1755-closest-subsequence-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1755-closest-subsequence-sum) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1365,6 +1368,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1876-map-of-highest-peak](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1876-map-of-highest-peak) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
