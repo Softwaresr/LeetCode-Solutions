@@ -473,6 +473,7 @@
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3197-maximum-strong-pair-xor-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3197-maximum-strong-pair-xor-ii) |
 | [3211-find-maximum-non-decreasing-array-length](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3211-find-maximum-non-decreasing-array-length) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -1385,6 +1386,7 @@
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -1638,6 +1640,7 @@
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3203-palindrome-rearrangement-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3203-palindrome-rearrangement-queries) |
 | [3208-count-beautiful-substrings-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3208-count-beautiful-substrings-ii) |
+| [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
