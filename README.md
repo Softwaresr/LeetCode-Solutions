@@ -288,6 +288,7 @@
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0498-diagonal-traverse](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0517-super-washing-machines) |
 | [0518-coin-change-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0546-remove-boxes) |
@@ -918,6 +919,7 @@
 | [0135-candy](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0502-ipo](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0502-ipo) |
+| [0517-super-washing-machines](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0517-super-washing-machines) |
 | [0768-partition-labels](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0871-minimum-number-of-refueling-stops) |
