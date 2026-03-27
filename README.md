@@ -460,6 +460,7 @@
 | [2906-construct-product-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
 | [2915-count-of-interesting-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -882,6 +883,7 @@
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2928-distribute-candies-among-children-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2928-distribute-candies-among-children-i) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2998-count-symmetric-integers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3001-apply-operations-to-maximize-score) |
 | [3057-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3057-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -1400,6 +1402,7 @@
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [2906-construct-product-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3227-find-missing-and-repeated-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -1464,6 +1467,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2642-time-to-cross-a-bridge](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2642-time-to-cross-a-bridge) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3336-water-bottles-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3379-transformed-array) |
