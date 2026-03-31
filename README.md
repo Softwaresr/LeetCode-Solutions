@@ -788,6 +788,7 @@
 | [3447-clear-digits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3462-vowels-game-in-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3606-coupon-code-validator) |
 | [3617-find-the-original-typed-string-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
@@ -977,6 +978,7 @@
 | [3228-maximum-size-of-a-set-after-removals](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3228-maximum-size-of-a-set-after-removals) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1339,6 +1341,7 @@
 | [0214-shortest-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [1524-string-matching-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Linked List
 |  |
 | ------- |
