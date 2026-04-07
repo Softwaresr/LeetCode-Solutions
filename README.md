@@ -1477,6 +1477,7 @@
 | [1642-water-bottles](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1642-water-bottles) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2069-walking-robot-simulation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -1833,6 +1834,7 @@
 | [1622-fancy-sequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2023-design-movie-rental-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2023-design-movie-rental-system) |
+| [2069-walking-robot-simulation-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2069-walking-robot-simulation-ii) |
 | [2429-design-a-food-rating-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
 | [3678-design-task-manager](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3678-design-task-manager) |
