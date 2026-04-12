@@ -737,6 +737,7 @@
 | [1252-break-a-palindrome](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1252-break-a-palindrome) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -1240,6 +1241,7 @@
 | [1013-fibonacci-number](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1170-shortest-common-supersequence](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1170-shortest-common-supersequence) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
