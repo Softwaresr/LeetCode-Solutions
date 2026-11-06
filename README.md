@@ -449,6 +449,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2708-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2708-find-the-string-with-lcp) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -1036,6 +1037,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2747-count-zero-request-servers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2751-robot-collisions](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2784-power-of-heroes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2784-power-of-heroes) |
 | [2887-sort-vowels-in-a-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -1147,6 +1149,7 @@
 | [2685-first-completely-painted-row-or-column](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2685-first-completely-painted-row-or-column) |
 | [2689-rearranging-fruits](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2747-count-zero-request-servers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2826-find-a-good-subset-of-the-matrix](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2826-find-a-good-subset-of-the-matrix) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1596,6 +1599,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2673-maximize-win-from-two-segments](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2673-maximize-win-from-two-segments) |
+| [2747-count-zero-request-servers](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3196-apply-operations-to-maximize-frequency-score) |
