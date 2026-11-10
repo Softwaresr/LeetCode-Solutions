@@ -545,6 +545,7 @@
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3693-climbing-stairs-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -1303,6 +1304,7 @@
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3693-climbing-stairs-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
