@@ -472,6 +472,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
