@@ -425,6 +425,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2549-next-greater-element-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2549-next-greater-element-iv) |
 | [2551-apply-operations-to-an-array](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2574-count-subarrays-with-median-k](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2574-count-subarrays-with-median-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -980,6 +981,7 @@
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2559-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2559-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2573-find-the-string-with-lcp](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -1045,6 +1047,7 @@
 | [2479-meeting-rooms-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2539-minimum-number-of-operations-to-make-arrays-similar](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2539-minimum-number-of-operations-to-make-arrays-similar) |
 | [2549-next-greater-element-iv](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2549-next-greater-element-iv) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
