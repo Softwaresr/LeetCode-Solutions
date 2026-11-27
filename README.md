@@ -569,6 +569,7 @@
 | [3863-power-grid-maintenance](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3863-power-grid-maintenance) |
 | [3886-count-number-of-trapezoids-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3886-count-number-of-trapezoids-i) |
 | [3897-count-number-of-trapezoids-ii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3897-count-number-of-trapezoids-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -1011,6 +1012,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -1329,6 +1331,7 @@
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3772-maximum-subgraph-score-in-a-tree](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3772-maximum-subgraph-score-in-a-tree) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Softwaresr/LeetCode-Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Recursion
 |  |
 | ------- |
